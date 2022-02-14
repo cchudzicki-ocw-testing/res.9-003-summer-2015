@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Social intelligence (PDF - 1.4MB)](resources/mitres_9_003sum15_lec6-1)'
+parent_title: Unit 6. Social Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6.1: Nancy Kanwisher - Introduction to Social Intelligence'
 uid: e3737c7b-cd6c-e66d-2e6f-c4d91a2503e9

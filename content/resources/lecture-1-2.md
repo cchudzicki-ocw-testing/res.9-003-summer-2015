@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Neural mechanisms underlying visual object recognition (PDF - 17.7MB)](/ans7870/RES/RES.9-003/MITRES_9_003SUM15_Lec1-3.pdf)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.3: James DiCarlo - Neural Mechanisms of Recognition Part 1'
 uid: 97bcf786-19e8-039a-9c08-f448fb5c72b7

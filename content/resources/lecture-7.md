@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Introduction to biological audition (PDF - 3.9MB)](resources/mitres_9_003sum15_lec7-1)'
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.1: Josh McDermott - Introduction to Audition Part 1'
 uid: b1cdcd1c-0ff5-0f9c-498b-e92f74007790

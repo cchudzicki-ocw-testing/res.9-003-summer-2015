@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[The social mind (PDF - 3.3MB)](resources/mitres_9_003sum15_lec6-2)'
+parent_title: Unit 6. Social Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6.2: Ken Nakayama - The Social Mind'
 uid: 35d9e9f6-7181-4881-1ab1-7cc465259fdb

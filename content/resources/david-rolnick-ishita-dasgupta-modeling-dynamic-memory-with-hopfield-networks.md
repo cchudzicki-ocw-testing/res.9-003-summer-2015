@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'David Rolnick & Ishita Dasgupta: Modeling Dynamic Memory with Hopfield Networks'
 uid: 55c6c8c7-9905-f802-92c1-e02442f8cc35

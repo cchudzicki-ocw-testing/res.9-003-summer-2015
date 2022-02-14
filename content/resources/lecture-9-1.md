@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: No slides are provided for this session.
+parent_title: Unit 9. Theory of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.2: Haim Sompolinsky - Sensory Representations in Deep Networks'
 uid: ae879ea8-4b89-756d-456d-a68887dfbbdb

@@ -16,7 +16,11 @@ image_metadata:
   credit: ''
   image-alt: "Diagram with photos of three types of stacked objects\u2014dishes in\
     \ a sink, stable tower of blocks and collapsing unstable tower of blocks."
+learning_resource_types: []
+parent_title: 'Tutorial 5: Church Programming'
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: tutor5.jpg
+type: OCWImage
 uid: 20b84384-fbe1-fff3-7d7e-31991157e720
 ---

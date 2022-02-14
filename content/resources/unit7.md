@@ -16,7 +16,11 @@ image_metadata:
   credit: ''
   image-alt: Two pairs of plots, x-axis=modulation channel and y-axis=cochlear channel,
     showing differences between the sounds of insects and waves.
+learning_resource_types: []
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit7.jpg
+type: OCWImage
 uid: c184198a-ec04-736f-c5ee-84b08da84cbd
 ---

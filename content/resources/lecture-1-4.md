@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Of primates, faces, and intelligence (PDF - 5.7MB)](resources/mitres_9_003sum15_lec1-5)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.5: Winrich Freiwald - Primates, Faces, & Intelligence'
 uid: ea1931ac-d19a-34c2-5fd2-ce05199d7e54

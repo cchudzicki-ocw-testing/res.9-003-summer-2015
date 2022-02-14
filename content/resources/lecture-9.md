@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[iTheory: Visual cortex and deep networks (PDF)](resources/mitres_9_003sum15_lec9-1)'
+parent_title: Unit 9. Theory of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.1: Tomaso Poggio - iTheory: Visual Cortex & Deep Networks'
 uid: a4f05057-174c-8897-29a8-66b2cf2a5444

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: See previous session.
+parent_title: Unit 2. Modeling Human Cognition
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2.2: Josh Tenenbaum - Computational Cognitive Science Part 2'
 uid: ad181bfe-8767-4492-8b88-a43c887f70d3

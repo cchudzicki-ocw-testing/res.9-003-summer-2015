@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Computational cognitive science (PDF - 5.4MB)](resources/mitres_9_003sum15_lec2-1)'
+parent_title: Unit 2. Modeling Human Cognition
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2.1: Josh Tenenbaum - Computational Cognitive Science Part 1'
 uid: de3fbf1b-74fe-5371-3ac1-1c18442236e7

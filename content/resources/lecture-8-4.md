@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[iCub: An open source platform for research in robotics & AI (PDF
+  - 1.6MB)](resources/mitres_9_003sum15_lec8-5)'
+parent_title: Unit 8. Robotics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.5: Giorgio Metta - Introduction to the iCub Robot'
 uid: d759c78c-841c-aa0e-d37d-aff0dc708007

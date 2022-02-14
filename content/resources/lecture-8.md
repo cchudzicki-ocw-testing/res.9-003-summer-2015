@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[MIT''s entry in the DARPA robotics challenge (PDF - 2.7MB)](resources/mitres_9_003sum15_lec8-1)'
+parent_title: Unit 8. Robotics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.1: Russ Tedrake - MIT''s Entry in the DARPA Robotics Challenge'
 uid: 630776bc-0855-3bb8-bcd7-99652506c9e4

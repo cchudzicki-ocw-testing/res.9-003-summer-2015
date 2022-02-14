@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Layered control architecture in mammals and robots (PDF - 4.9MB)](resources/mitres_9_003sum15_lec8-3)'
+parent_title: Unit 8. Robotics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.3: Tony Prescott - Control Architecture in Mammals and Robots'
 uid: 3693385d-7fb2-4600-f30f-1cca2fe5a890

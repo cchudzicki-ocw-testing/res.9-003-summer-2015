@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 title: Fostering the Development of Interdisciplinary Thinking
+type: CourseSection
 uid: 8aaec61e-e6fe-9066-e116-b7dbb69aa309
 ---
 

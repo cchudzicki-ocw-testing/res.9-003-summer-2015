@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Predicting visual memory: Behavioral, neuroscience, and computational
+  accounts (PDF - 9.7MB)](resources/mitres_9_003sum15_lec4-3)'
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.3: Aude Oliva - Predicting Visual Memory'
 uid: 61f4fc11-3241-203a-a0f9-25db60591d8f

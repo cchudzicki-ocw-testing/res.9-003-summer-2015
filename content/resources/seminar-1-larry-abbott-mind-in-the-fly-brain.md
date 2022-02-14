@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[A mind in the fly brain (PDF - 5.2MB)](resources/mitres_9_003sum15_sem1)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 1: Larry Abbott - Mind in the Fly Brain'
 uid: a96b1d4d-a0d4-81a6-26e0-748b3088868d

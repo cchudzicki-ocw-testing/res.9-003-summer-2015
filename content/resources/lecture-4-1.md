@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Atoms of recognition in human and computer vision (PDF - 2.3MB)](resources/mitres_9_003sum15_lec4-2)'
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.2: Shimon Ullman - Atoms of Recognition'
 uid: 39163521-deb6-401d-22bc-6d75a04250d4

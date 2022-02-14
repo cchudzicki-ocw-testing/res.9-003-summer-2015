@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Nick Cheney: Capturing Neural Plasticity in Deep Networks'
 uid: 48effe19-8a4c-dae5-a0f4-f070d0d2025f

@@ -13,7 +13,11 @@ image_metadata:
   credit: Image courtesy of Winrich Friewald, used with permission.
   image-alt: Diagram of primate brain with colored patches highlighting regions associated
     with different facial orientations.
+learning_resource_types: []
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit1.jpg
+type: OCWImage
 uid: cf903a5c-b45b-6b69-103a-fc1c623af95f
 ---

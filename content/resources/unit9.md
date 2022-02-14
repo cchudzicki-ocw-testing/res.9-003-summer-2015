@@ -15,7 +15,11 @@ image_metadata:
   image-alt: Diagram showing a model of how objects within a street scene are associated
     with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally
     "AIT."
+learning_resource_types: []
+parent_title: Unit 9. Theory of Intelligence
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit9.jpg
+type: OCWImage
 uid: ea34d43d-037f-bd1b-ec4d-c20f3e97567e
 ---

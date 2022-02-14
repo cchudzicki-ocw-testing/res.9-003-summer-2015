@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Developing an understanding of communication (PDF - 2.3MB)](resources/mitres_9_003sum15_lec3-3)'
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.3: Alia Martin - Developing an Understanding of Communication'
 uid: 28809918-c035-aef0-f87f-eb3a4380cb30

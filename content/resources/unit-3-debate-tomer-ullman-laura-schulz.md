@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Debate on theories, imagination, and the generation of ideas (PDF
+  - 4.4MB)](resources/mitres_9_003sum15_debate3)'
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Unit 3 Debate: Tomer Ullman & Laura Schulz'
 uid: 176777f7-de37-91be-247f-0681fd802e77

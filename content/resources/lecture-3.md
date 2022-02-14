@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Cognition in infancy (PDF - 2.2MB)](resources/mitres_9_003sum15_lec3-1)'
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.1: Liz Spelke - Cognition in Infancy Part 1'
 uid: 3261bc60-d237-f03b-b592-8ac278a66435

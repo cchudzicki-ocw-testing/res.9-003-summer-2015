@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: See previous session.
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.4: James DiCarlo - Neural Mechanisms of Recognition Part 2'
 uid: 8e844ba3-e47f-5348-5755-984c5c63e5e2

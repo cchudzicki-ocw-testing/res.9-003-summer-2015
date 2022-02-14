@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[From simple innate biases to complex visual concepts (PDF - 2.4MB)](resources/mitres_9_003sum15_lec4-1)'
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.1: Shimon Ullman - Development of Visual Concepts'
 uid: 5cc7066f-9317-499a-9601-b77e09b3db7a

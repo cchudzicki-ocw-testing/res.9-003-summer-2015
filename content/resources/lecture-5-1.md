@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[From language to vision and back again (PDF - 2.3MB)](resources/mitres_9_003sum15_lec5-2)'
+parent_title: Unit 5. Vision and Language
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5.2: Andrei Barbu - From Language to Vision and Back Again'
 uid: 1103eeeb-d53d-d01a-3da3-d002f99d0907

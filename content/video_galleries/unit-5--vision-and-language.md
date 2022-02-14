@@ -1,7 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
 title: Unit 5. Vision and Language
+type: SupplementalResourceSection
 uid: 8d2bd38c-682c-4509-eb22-aad86d4047ab
 videos:
   content:

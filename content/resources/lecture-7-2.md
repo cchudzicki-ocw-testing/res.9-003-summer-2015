@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Functional
+  specialization in human auditory cortex (PDF - 3.1MB)](resources/mitres_9_003sum15_lec7-3)'
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.3: Nancy Kanwisher - Human Auditory Cortex'
 uid: b329b06b-9a17-2e11-33f1-dfa3b6408570

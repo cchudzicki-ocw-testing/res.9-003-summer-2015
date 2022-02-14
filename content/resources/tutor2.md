@@ -22,7 +22,11 @@ image_metadata:
   credit: ''
   image-alt: Sequence of four images of a coin, with progressively less detail and
     resolution.
+learning_resource_types: []
+parent_title: Tutorial 2. MATLAB Programming
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: tutor2.jpg
+type: OCWImage
 uid: 6a56f248-a906-0b47-36be-54fe2d2df916
 ---

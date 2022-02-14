@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: No slides are provided for this session.
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Unit 7 Panel: Vision and Audition'
 uid: 2222f900-180c-c0d2-f2fb-aade5088a985

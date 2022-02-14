@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Understanding neural content and coding using population decoding
+  (PDF - 2.6MB)](resources/mitres_9_003sum15_tut4)'
+parent_title: Tutorial 4. Neural Decoding
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tutorial 4: Ethan Meyers - Understanding Neural Content via Population Decoding'
 uid: 0d13227b-2e2d-4426-8860-f6be86659176

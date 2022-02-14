@@ -13,7 +13,11 @@ image_metadata:
   image-alt: 'A 3x3 grid of photos: top row "memorable" includes a giant inflatable
     gorilla; middle row "average" includes a grocery store produce section; bottom
     "forgettable" includes generic landscapes.'
+learning_resource_types: []
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit4.jpg
+type: OCWImage
 uid: b44faeaf-035b-c4fc-1c98-f93e902f29ed
 ---

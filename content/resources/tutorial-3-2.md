@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Machine learning: A basic toolkit (PDF - 3.3MB)](resources/mitres_9_003sum15_tut3)'
+parent_title: Tutorial 3. Machine Learning
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tutorial 3.3: Lorenzo Rosasco - Machine Learning Tutorial Part 3'
 uid: a329c178-89be-f33e-f8b5-e0dda508d70b

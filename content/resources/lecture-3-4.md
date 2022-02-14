@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[The child as scientist (PDF - 2.5MB)](resources/mitres_9_003sum15_lec3-5)'
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.5: Josh Tenenbaum - The Child as Scientist'
 uid: de39bb9a-b811-ea0a-7fb4-977e64148062

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Infants'' sensitivity to cost and benefit (PDF - 6.4MB)](resources/mitres_9_003sum15_sem3_som)'
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 3: Jessica Sommerville - Infants'' Sensitivity to Cost and Benefit'
 uid: 2f928a27-7410-70f8-add0-4fbf9de3f481

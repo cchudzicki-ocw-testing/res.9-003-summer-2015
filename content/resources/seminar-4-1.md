@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\uFEFF[Computer vision, wearable computing, and the future of transportation\
+  \ (PDF - 3.3MB)](resources/mitres_9_003sum15_sem4-2)"
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 4.2: Amnon Shashua - Applications of Vision'
 uid: d289db56-9c7f-0f88-c1e4-526bce2b2872

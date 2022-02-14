@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Hippocampus, memory, and sleep (PDF - 4.3MB)](resources/mitres_9_003sum15_lec1-6)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.6: Matt Wilson - Hippocampus, Memory, & Sleep Part 1'
 uid: 9b1e5ce2-860c-2d65-39fa-3de9a81bd8a7

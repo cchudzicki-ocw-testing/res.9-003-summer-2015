@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: No slides are provided for this session.
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.4: Laura Schulz - Childrens'' Sensitivity to Cost and Value of Information'
 uid: 3d98b8fe-c665-ebf8-dc51-31669b4b8813

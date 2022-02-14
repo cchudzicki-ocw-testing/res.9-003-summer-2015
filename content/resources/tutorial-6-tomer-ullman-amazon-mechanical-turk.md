@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](resources/mitres_9_003sum15_tut6)'
+parent_title: Tutorial 6. Amazon Mechanical Turk
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tutorial 6: Tomer Ullman - Amazon Mechanical Turk'
 uid: 2e690401-060a-2e44-e74e-0641287f7e11

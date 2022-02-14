@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Introduction to the study of intelligence in brains, minds, and machines
+  (PDF)](resources/mitres_9_003sum15_lec0)'
+parent_title: Introduction
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0: Tomaso Poggio - Introduction to Brains, Minds, & Machines'
 uid: cd7054b1-df8e-50d7-39a9-7ea4172b9395

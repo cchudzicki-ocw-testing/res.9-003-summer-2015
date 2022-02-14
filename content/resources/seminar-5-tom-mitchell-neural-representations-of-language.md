@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: No slides are provided for this session.
+parent_title: Unit 5. Vision and Language
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 5: Tom Mitchell - Neural Representations of Language'
 uid: d6e90d7b-5685-1bc5-8170-a780c9984518

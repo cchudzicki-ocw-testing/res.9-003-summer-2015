@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Danny Jeck: Impact of Attention on Cortical Models of Visual Recognition'
 uid: 75cbf89d-c460-5468-4e55-c8589b3c999e

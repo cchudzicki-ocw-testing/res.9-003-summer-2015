@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Church tutorial (PDF - 1.3MB)](resources/mitres_9_003sum15_tut5)'
+parent_title: 'Tutorial 5: Church Programming'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tutorial 5.1: Tomer Ullman - Church Programming Language Part 1'
 uid: 3953a4fd-a909-910d-c0f2-697c6200da75

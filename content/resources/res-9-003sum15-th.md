@@ -31,7 +31,9 @@ image_metadata:
   image-alt: 'Collage of three images: (1) side view of human brain, with several
     regions highlighted; (2) a "tree diagram" illustrating how a street scene can
     be decomposed into various parts; (3) photo of a head and arms of a humanoid robot.'
+learning_resource_types: []
 resourcetype: Image
 title: res-9-003sum15-th.jpg
+type: OCWImage
 uid: 02c7850b-19db-e02d-bd2f-d19454c023ad
 ---

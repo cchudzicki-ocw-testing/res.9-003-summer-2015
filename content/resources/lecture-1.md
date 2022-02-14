@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Introduction to human cognitive neuroscience (PDF - 1.1MB)](resources/mitres_9_003sum15_lec1-1)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.1: Nancy Kanwisher - Human Cognitive Neuroscience'
 uid: 07497588-b2da-35d7-78f5-d0dab5a1da4b

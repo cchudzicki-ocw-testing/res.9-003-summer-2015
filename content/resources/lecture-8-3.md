@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Human-robot collaboration (PDF - 4.2MB)](resources/mitres_9_003sum15_lec8-4)'
+parent_title: Unit 8. Robotics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.4: Stefanie Tellex - Human-Robot Collaboration'
 uid: 4b4b8a0b-519e-b9a6-e8f9-af4b452e8c32

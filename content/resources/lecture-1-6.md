@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: See previous session.
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.7: Matt Wilson - Hippocampus, Memory, & Sleep Part 2'
 uid: 36b16a97-0dee-65ee-fb8f-097fcc64fa96

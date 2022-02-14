@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: No slides are provided for this session.
+parent_title: Unit 9. Theory of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 9: Surya Ganguli - Statistical Physics of Deep Learning'
 uid: 9ae61743-f111-cd71-002e-cfe229cd917b

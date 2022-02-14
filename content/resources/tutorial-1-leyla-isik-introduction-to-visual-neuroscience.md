@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Basic neuroscience (PDF - 1.1MB)](resources/mitres_9_003sum15_tut1)'
+parent_title: Tutorial 1. Basic Neuroscience
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tutorial 1: Leyla Isik - Introduction to Visual Neuroscience'
 uid: beca4cb7-f4d0-0fad-1122-a2a9f5f189c5

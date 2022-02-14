@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Probing sensory representations with metameric stimuli (PDF - 8.7MB)](resources/mitres_9_003sum15_sem4-1)'
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 4.1: Eero Simoncelli - Probing Sensory Representations'
 uid: a53e8f09-99ac-832f-d6f6-17135d7aa6bc

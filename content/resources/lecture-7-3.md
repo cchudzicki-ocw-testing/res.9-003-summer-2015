@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Auditory perception in speech technology (PDF - 6.4MB)](resources/mitres_9_003sum15_lec7-4)'
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.4: Hynek Hermansky - Auditory Perception in Speech Technology Part
   1'

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[MVPA: Opening a new window on the mind via fMRI (PDF - 1.9MB)](resources/mitres_9_003sum15_lec6-3)'
+parent_title: Unit 6. Social Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6.3: Rebecca Saxe - MVPA: Window on the Mind via fMRI Part 1'
 uid: 837b5022-6b2c-02b8-796b-a74144926e36

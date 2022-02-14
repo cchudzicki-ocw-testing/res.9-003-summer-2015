@@ -16,7 +16,11 @@ image_metadata:
     \ National Academy of Sciences 110, no. 45 (2013): 18327-18332. Copyright \xA9\
     \ 2013 National Academy of Sciences, U.S.A."
   image-alt: Photo of young boy building a tower of blocks.
+learning_resource_types: []
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit3.jpg
+type: OCWImage
 uid: 4a944d1b-2976-6a0b-6f68-2f7a1ed13062
 ---

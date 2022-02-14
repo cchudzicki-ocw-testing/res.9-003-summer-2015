@@ -1,7 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
 title: Unit 8. Robotics
+type: SupplementalResourceSection
 uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
 videos:
   content:

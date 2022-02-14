@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Computational roles of feedback and recurrent connections in visual
+  cortex (PDF - 6.5MB)](resources/mitres_9_003sum15_lec1-2)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.2: Gabriel Kreiman - Computational Roles of Neural Feedback'
 uid: 9f526489-9937-6db1-7d92-362937d97e25

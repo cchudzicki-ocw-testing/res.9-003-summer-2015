@@ -7,7 +7,6 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 title: Maintaining Intellectual Coherence across a Wide Range of Topics Related to
   Intelligence
-type: CourseSection
 uid: c377690a-06a5-9c86-78a3-5e5ec8379fbb
 ---
 

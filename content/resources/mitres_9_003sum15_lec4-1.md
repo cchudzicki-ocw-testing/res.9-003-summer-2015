@@ -9,6 +9,5 @@ parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: From Simple Innate Biases to Complex Visual Concepts
-type: OCWFile
 uid: aceffb86-ec74-7d47-8cb5-7cad64ddb855
 ---

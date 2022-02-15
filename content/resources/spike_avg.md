@@ -9,6 +9,5 @@ parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: spike_avg.zip
-type: OCWFile
 uid: cb79871e-e4f1-4cd8-5caa-452f4a859f05
 ---

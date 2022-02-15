@@ -9,6 +9,5 @@ parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MVPA: Opening a New Window on the Mind Via fMRI'
-type: OCWFile
 uid: f5296062-2706-3801-5496-4ffc8c2fa30b
 ---

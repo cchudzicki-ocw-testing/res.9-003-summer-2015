@@ -17,6 +17,5 @@ parent_title: Introduction
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: intro.jpg
-type: OCWImage
 uid: e6684472-0ae1-8398-0367-5ee0ae8061af
 ---

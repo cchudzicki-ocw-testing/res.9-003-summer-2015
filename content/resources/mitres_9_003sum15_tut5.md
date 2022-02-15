@@ -8,6 +8,5 @@ parent_title: 'Tutorial 5: Church Programming'
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Church Tutorial
-type: OCWFile
 uid: 112ab1d6-d453-148f-2830-4f346b6fb7f4
 ---

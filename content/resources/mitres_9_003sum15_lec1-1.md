@@ -9,6 +9,5 @@ parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Introduction to Human Cognitive Neuroscience
-type: OCWFile
 uid: 7580dfed-8705-06e6-4118-35af4185edbc
 ---

@@ -7,7 +7,6 @@ parent_title: Tutorials
 parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 3. Machine Learning
-type: SupplementalResourceSection
 uid: 8f197fff-9848-87e6-768b-3b708afa1b7d
 videos:
   content:

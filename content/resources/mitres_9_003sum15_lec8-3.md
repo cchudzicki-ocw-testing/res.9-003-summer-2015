@@ -9,6 +9,5 @@ parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Layered Control Architecture in Mammals and Robots
-type: OCWFile
 uid: 473ae671-b3db-5c25-b922-032ba3fa771c
 ---

@@ -8,6 +8,5 @@ parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'iCub: An overview'
-type: OCWFile
 uid: 3a6c121c-d4b4-81dc-8f76-58405c1e89c6
 ---

@@ -16,6 +16,5 @@ parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: tutor6.jpg
-type: OCWImage
 uid: 2f896fc9-5689-288c-eb18-e22964408dd4
 ---

@@ -8,6 +8,5 @@ parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Human-Robot Collaboration
-type: OCWFile
 uid: d3fda03c-db21-b35a-ba58-33370e1ca06e
 ---

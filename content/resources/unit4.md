@@ -18,6 +18,5 @@ parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit4.jpg
-type: OCWImage
 uid: b44faeaf-035b-c4fc-1c98-f93e902f29ed
 ---

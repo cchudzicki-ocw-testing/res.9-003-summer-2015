@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: Introduction
-type: SupplementalResourceSection
 uid: 49281236-ae8b-1802-f634-42f7bcf66a2c
 videos:
   content:

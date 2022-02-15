@@ -9,6 +9,5 @@ parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'The Story Understanding Story: The Truth About Human Intelligence'
-type: OCWFile
 uid: 700e930d-9a13-bb0e-5f9f-c1b1f39578a3
 ---

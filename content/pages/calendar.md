@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Calendar
-type: SupplementalResourceSection
 uid: cd8182dc-2721-46f0-915a-6f72ae89f59c
 ---
 

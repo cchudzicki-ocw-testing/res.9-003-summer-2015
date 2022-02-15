@@ -6,7 +6,6 @@ parent_title: Tutorials
 parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 2. MATLAB Programming
-type: SupplementalResourceSection
 uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 ---
 

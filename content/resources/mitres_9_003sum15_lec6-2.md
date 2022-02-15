@@ -9,6 +9,5 @@ parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: The Social Mind
-type: OCWFile
 uid: 2961c3bc-a4f6-e444-3931-b5336b4bfde6
 ---

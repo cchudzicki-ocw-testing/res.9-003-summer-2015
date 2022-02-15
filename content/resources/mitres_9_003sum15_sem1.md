@@ -8,6 +8,5 @@ parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'A Mind in the Fly Brain '
-type: OCWFile
 uid: afaa7ccc-d427-0598-ed33-4e914da364ae
 ---

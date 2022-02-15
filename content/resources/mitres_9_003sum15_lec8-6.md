@@ -9,6 +9,5 @@ parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Large-Scale Incremental Learning for Robotics
-type: OCWFile
 uid: e55ecdf7-04ab-cefd-e3e6-7340a0627118
 ---

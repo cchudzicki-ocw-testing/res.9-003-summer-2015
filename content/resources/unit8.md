@@ -19,6 +19,5 @@ parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit8.jpg
-type: OCWImage
 uid: 0c5eb8f4-ce53-cf75-8e89-923a1e652046
 ---

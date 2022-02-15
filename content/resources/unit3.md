@@ -21,6 +21,5 @@ parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit3.jpg
-type: OCWImage
 uid: 4a944d1b-2976-6a0b-6f68-2f7a1ed13062
 ---

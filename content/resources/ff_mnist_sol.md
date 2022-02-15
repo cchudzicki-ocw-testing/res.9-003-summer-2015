@@ -9,6 +9,5 @@ parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: FF_MNIST_sol.zip
-type: OCWFile
 uid: ad9a22d9-d1c1-3e98-5072-17c27b01448c
 ---

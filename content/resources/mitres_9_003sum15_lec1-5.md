@@ -9,6 +9,5 @@ parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Of Primates, Faces, and Intelligence
-type: OCWFile
 uid: 948e9f73-7f7d-1cba-eee0-3728f90528f5
 ---

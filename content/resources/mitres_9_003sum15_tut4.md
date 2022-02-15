@@ -9,6 +9,5 @@ parent_title: Tutorial 4. Neural Decoding
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Understanding Neural Content and Coding Using Population Decoding
-type: OCWFile
 uid: 31d58010-4b3c-fec8-1168-562938b30ec8
 ---

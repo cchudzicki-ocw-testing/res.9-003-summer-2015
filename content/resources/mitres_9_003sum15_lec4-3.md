@@ -9,6 +9,5 @@ parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Predicting Visual Memory: Behavioral, Neuroscience, And Computational Accounts'
-type: OCWFile
 uid: b9b75a07-99b5-ea40-e50c-4ee47beb6764
 ---

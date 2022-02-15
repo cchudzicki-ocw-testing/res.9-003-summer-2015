@@ -8,6 +8,5 @@ parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Cognition in Infancy
-type: OCWFile
 uid: 1dee4a7e-0da0-543f-e5fe-b90cb7b86895
 ---

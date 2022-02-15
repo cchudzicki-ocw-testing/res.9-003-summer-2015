@@ -9,6 +9,5 @@ parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Debate on Theories, Imagination, and the Generation of Ideas
-type: OCWFile
 uid: 2cc1e968-a459-619e-a876-48597f1ae80c
 ---

@@ -8,6 +8,5 @@ parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Amazon Mechanical Turk Tutorial
-type: OCWFile
 uid: 13eef278-bfa7-a1b3-a320-41c34dd36685
 ---

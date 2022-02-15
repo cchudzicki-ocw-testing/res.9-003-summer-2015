@@ -21,6 +21,5 @@ parent_title: Unit 7. Audition and Speech
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit7.jpg
-type: OCWImage
 uid: c184198a-ec04-736f-c5ee-84b08da84cbd
 ---

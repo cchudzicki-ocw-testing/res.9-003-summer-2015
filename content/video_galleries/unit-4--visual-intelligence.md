@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: Unit 4. Visual Intelligence
-type: SupplementalResourceSection
 uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
 videos:
   content:

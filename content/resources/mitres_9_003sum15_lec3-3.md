@@ -9,6 +9,5 @@ parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Developing an Understanding of Communication
-type: OCWFile
 uid: 55e4dd9b-20cd-3bd3-bc89-47d6abecdc11
 ---

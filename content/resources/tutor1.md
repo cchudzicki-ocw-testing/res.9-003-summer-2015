@@ -20,6 +20,5 @@ parent_title: Tutorial 1. Basic Neuroscience
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: tutor1.jpg
-type: OCWImage
 uid: 7d776bec-a5cd-978c-d8d5-d36f13eb9597
 ---

@@ -9,6 +9,5 @@ parent_title: Unit 7. Audition and Speech
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Auditory Perception in Speech Technology
-type: OCWFile
 uid: 95f8a9b8-599f-13e1-4474-eb034e50cf3e
 ---

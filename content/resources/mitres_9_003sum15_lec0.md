@@ -9,6 +9,5 @@ parent_title: Introduction
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Introduction to the Study of Intelligence in Brains, Minds, and Machines
-type: OCWFile
 uid: dfee4de7-9333-806a-fbdb-8b5fd92adbe1
 ---

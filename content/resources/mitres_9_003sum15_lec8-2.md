@@ -9,6 +9,5 @@ parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Mapping, Localization, and Self-Driving Vehicles
-type: OCWFile
 uid: f261edde-6d4c-414a-c97c-21e22360c905
 ---

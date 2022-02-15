@@ -9,6 +9,5 @@ parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: imageproc_sol.zip
-type: OCWFile
 uid: 3c115c12-08c9-a715-8cac-8983b4250741
 ---

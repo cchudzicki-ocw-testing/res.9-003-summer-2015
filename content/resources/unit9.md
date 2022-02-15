@@ -20,6 +20,5 @@ parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit9.jpg
-type: OCWImage
 uid: ea34d43d-037f-bd1b-ec4d-c20f3e97567e
 ---

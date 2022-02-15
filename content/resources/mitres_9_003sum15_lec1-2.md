@@ -9,6 +9,5 @@ parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Computational Roles of Feedback and Recurrent Connections in Visual Cortex
-type: OCWFile
 uid: 068e411e-dffb-3c15-77cc-2928a45ab795
 ---

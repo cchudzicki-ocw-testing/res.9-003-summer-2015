@@ -34,6 +34,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: res-9-003sum15-th.jpg
-type: OCWImage
 uid: 02c7850b-19db-e02d-bd2f-d19454c023ad
 ---

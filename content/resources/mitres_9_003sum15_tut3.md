@@ -8,6 +8,5 @@ parent_title: Tutorial 3. Machine Learning
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Machine Learning: A Basic Toolkit'
-type: OCWFile
 uid: ea008743-3e52-985b-0e8d-4a0de6411774
 ---

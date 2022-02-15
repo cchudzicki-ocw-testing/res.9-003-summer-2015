@@ -9,6 +9,5 @@ parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'iTheory: Visual Cortex and Deep Networks'
-type: OCWFile
 uid: c4007fd2-17d2-be30-b1c7-adca0ee0fc2e
 ---

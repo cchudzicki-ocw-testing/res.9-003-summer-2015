@@ -8,6 +8,5 @@ parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Vision and Language
-type: OCWFile
 uid: 54095e16-3a84-d43f-86d6-b3299931b40f
 ---

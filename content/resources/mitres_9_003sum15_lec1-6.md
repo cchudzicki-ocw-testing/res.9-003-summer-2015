@@ -9,6 +9,5 @@ parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Hippocampus, Memory, and Sleep
-type: OCWFile
 uid: 53fb0983-0813-fa70-11db-98fb7d1a121a
 ---

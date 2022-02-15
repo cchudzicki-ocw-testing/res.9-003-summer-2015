@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 title: Designing Full-semester Courses with More Focused Content
-type: CourseSection
 uid: b19bee0a-8658-e1cd-59a8-2f3f0d7d83c4
 ---
 

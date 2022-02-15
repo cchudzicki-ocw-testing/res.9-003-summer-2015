@@ -9,6 +9,5 @@ parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MATLAB: Goldman / Zysman Introductory Tutorial'
-type: OCWFile
 uid: d82a14ff-eb24-f8c7-7cc2-2bf263ebc6b2
 ---

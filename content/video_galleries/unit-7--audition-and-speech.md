@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: Unit 7. Audition and Speech
-type: SupplementalResourceSection
 uid: 67de5f18-8df4-42c1-f171-08d83925c7a8
 videos:
   content:

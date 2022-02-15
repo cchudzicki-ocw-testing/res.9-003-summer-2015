@@ -7,7 +7,6 @@ parent_title: Tutorials
 parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 4. Neural Decoding
-type: SupplementalResourceSection
 uid: 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561
 videos:
   content:

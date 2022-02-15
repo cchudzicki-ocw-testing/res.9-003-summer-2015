@@ -9,6 +9,5 @@ parent_title: Unit 2. Modeling Human Cognition
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Computational Cognitive Science
-type: OCWFile
 uid: 6da545b6-740e-5d8f-a241-230cb61bfebf
 ---

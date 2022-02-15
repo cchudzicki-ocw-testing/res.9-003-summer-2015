@@ -8,6 +8,5 @@ parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: The Child as Scientist
-type: OCWFile
 uid: a1d7faab-467a-b401-7f59-c4f6fc23539b
 ---

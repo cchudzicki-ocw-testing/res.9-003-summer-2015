@@ -5,6 +5,7 @@ description: 'This file contains information regarding MATLAB: Goldman / Zysman 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d82a14ffeb24f8c77cc22bf263ebc6b2_MITRES_9_003SUM15_tut2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Document

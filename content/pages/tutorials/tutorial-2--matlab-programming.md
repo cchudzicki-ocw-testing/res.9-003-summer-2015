@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Tutorials
+ocw_type: SupplementalResourceSection
 parent_title: Tutorials
 parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f

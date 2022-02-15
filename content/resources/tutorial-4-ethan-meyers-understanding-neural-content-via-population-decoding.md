@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Understanding neural content and coding using population decoding
   (PDF - 2.6MB)](resources/mitres_9_003sum15_tut4)'

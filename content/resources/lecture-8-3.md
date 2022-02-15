@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Human-robot collaboration (PDF - 4.2MB)](resources/mitres_9_003sum15_lec8-4)'
 parent_title: Unit 8. Robotics

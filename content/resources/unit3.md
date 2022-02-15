@@ -17,6 +17,7 @@ image_metadata:
     \ 2013 National Academy of Sciences, U.S.A."
   image-alt: Photo of young boy building a tower of blocks.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image

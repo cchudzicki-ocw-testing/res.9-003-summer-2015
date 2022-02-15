@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[iTheory: Visual cortex and deep networks (PDF)](resources/mitres_9_003sum15_lec9-1)'
 parent_title: Unit 9. Theory of Intelligence

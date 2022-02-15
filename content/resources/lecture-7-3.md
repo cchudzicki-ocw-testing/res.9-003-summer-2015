@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Auditory perception in speech technology (PDF - 6.4MB)](resources/mitres_9_003sum15_lec7-4)'
 parent_title: Unit 7. Audition and Speech

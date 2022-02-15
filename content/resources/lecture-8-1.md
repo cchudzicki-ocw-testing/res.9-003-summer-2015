@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Mapping, localization, and self-driving vehicles (PDF - 4.5MB)](resources/mitres_9_003sum15_lec8-2)'
 parent_title: Unit 8. Robotics

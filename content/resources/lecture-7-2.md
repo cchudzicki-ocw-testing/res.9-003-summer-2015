@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Functional
   specialization in human auditory cortex (PDF - 3.1MB)](resources/mitres_9_003sum15_lec7-3)'

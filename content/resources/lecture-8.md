@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[MIT''s entry in the DARPA robotics challenge (PDF - 2.7MB)](resources/mitres_9_003sum15_lec8-1)'
 parent_title: Unit 8. Robotics

@@ -5,6 +5,7 @@ description: 'This resource contains information regarding brains, minds and mac
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/f52960622706380154964ffc8c2fa30b_MITRES_9_003SUM15_Lec6-3.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Document

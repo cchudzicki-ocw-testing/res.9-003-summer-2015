@@ -17,6 +17,7 @@ image_metadata:
   image-alt: "Diagram with photos of three types of stacked objects\u2014dishes in\
     \ a sink, stable tower of blocks and unstable tower of blocks."
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 2. Modeling Human Cognition
 parent_type: SupplementalResourceSection
 resourcetype: Image

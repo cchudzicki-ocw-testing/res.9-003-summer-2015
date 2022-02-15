@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Basic neuroscience (PDF - 1.1MB)](resources/mitres_9_003sum15_tut1)'
 parent_title: Tutorial 1. Basic Neuroscience

@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Diagram of the human brain, with 5 subregions highlighted along the temporal
     lobe.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image

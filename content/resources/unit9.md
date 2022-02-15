@@ -16,6 +16,7 @@ image_metadata:
     with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally
     "AIT."
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image

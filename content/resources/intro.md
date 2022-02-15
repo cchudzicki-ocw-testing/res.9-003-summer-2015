@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Logo of Center for Brains, Minds, and Machines, consisting of 3 overlapping
     patterned circles.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Introduction
 parent_type: SupplementalResourceSection
 resourcetype: Image

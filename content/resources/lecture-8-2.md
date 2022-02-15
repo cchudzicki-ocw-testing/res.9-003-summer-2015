@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Layered control architecture in mammals and robots (PDF - 4.9MB)](resources/mitres_9_003sum15_lec8-3)'
 parent_title: Unit 8. Robotics

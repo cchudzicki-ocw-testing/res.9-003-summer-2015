@@ -23,6 +23,7 @@ image_metadata:
   image-alt: Sequence of four images of a coin, with progressively less detail and
     resolution.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Image

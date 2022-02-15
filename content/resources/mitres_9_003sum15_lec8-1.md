@@ -5,6 +5,7 @@ description: This file contains information regarding MIT's entry in the DARPA r
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/6f149b75987b94b876a80d957dd3119d_MITRES_9_003SUM15_Lec8-1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Document

@@ -19,6 +19,7 @@ image_metadata:
   image-alt: Plot of true classes vs. predicted classes, with a  band of highest value
     proceeding from upper left to lower right.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Tutorial 4. Neural Decoding
 parent_type: SupplementalResourceSection
 resourcetype: Image

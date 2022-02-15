@@ -14,6 +14,7 @@ image_metadata:
   image-alt: Diagram of primate brain with colored patches highlighting regions associated
     with different facial orientations.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image

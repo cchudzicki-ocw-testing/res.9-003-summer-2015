@@ -16,6 +16,7 @@ image_metadata:
   credit: ''
   image-alt: An array of handwritten digits accompanied by a 3-D scatter plot.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Tutorial 3. Machine Learning
 parent_type: SupplementalResourceSection
 resourcetype: Image

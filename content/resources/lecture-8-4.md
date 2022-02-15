@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[iCub: An open source platform for research in robotics & AI (PDF
   - 1.6MB)](resources/mitres_9_003sum15_lec8-5)'

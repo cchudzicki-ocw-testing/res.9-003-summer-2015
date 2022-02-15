@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Debate on theories, imagination, and the generation of ideas (PDF
   - 4.4MB)](resources/mitres_9_003sum15_debate3)'

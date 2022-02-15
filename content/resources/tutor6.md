@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: Graphic of three people's heads in different colors.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
 resourcetype: Image

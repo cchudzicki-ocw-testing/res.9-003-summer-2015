@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Photo of a mobile robot  with long "whiskers" protruding to the sides,
     brushing the whiskers on a person's hand.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 resourcetype: Image

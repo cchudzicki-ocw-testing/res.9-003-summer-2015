@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Still photo of a tall blue bin in center, with a man to the left standing
     with a folding chair and a man to the right with a backpack.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
 resourcetype: Image

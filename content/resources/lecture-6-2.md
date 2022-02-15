@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[MVPA: Opening a new window on the mind via fMRI (PDF - 1.9MB)](resources/mitres_9_003sum15_lec6-3)'
 parent_title: Unit 6. Social Intelligence

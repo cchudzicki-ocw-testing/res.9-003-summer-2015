@@ -5,6 +5,7 @@ description: "\r\nThis is a special file related spike-triggered averaging of ne
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/cb79871ee4f14cd85caa452f4a859f05_spike_avg.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
 resourcetype: Other

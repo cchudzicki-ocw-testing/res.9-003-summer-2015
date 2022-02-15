@@ -14,6 +14,7 @@ image_metadata:
     gorilla; middle row "average" includes a grocery store produce section; bottom
     "forgettable" includes generic landscapes.'
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 resourcetype: Image

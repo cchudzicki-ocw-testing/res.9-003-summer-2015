@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[A mind in the fly brain (PDF - 5.2MB)](resources/mitres_9_003sum15_sem1)'
 parent_title: Unit 1. Neural Circuits of Intelligence

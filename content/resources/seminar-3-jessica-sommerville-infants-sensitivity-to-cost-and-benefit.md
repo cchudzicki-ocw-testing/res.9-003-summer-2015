@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Infants'' sensitivity to cost and benefit (PDF - 6.4MB)](resources/mitres_9_003sum15_sem3_som)'
 parent_title: Unit 3. Development of Intelligence

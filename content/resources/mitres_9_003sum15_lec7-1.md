@@ -5,6 +5,7 @@ description: 'This resource contains information regarding brains, minds and mac
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/8acdec0c6bcc81c4a935a9203a51d792_MITRES_9_003SUM15_Lec7-1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Unit 7. Audition and Speech
 parent_type: SupplementalResourceSection
 resourcetype: Document

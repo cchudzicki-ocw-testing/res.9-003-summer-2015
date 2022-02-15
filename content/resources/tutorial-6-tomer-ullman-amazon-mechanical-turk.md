@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](resources/mitres_9_003sum15_tut6)'
 parent_title: Tutorial 6. Amazon Mechanical Turk

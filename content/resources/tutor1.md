@@ -16,6 +16,7 @@ image_metadata:
     lobe). The ventral stream goes to the side, along the temporal lobe, and the dorsal
     stream goes toward the top of the brain.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Tutorial 1. Basic Neuroscience
 parent_type: SupplementalResourceSection
 resourcetype: Image

@@ -22,7 +22,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Two pairs of plots, x-axis=modulation channel and y-axis=cochlear channel, showing differences between the sounds of insects and waves.]({{< resource_file c184198a-ec04-736f-c5ee-84b08da84cbd >}})
+{{< resource c184198a-ec04-736f-c5ee-84b08da84cbd >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

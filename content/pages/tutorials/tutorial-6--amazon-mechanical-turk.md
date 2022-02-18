@@ -21,7 +21,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Graphic of three people's heads in different colors.]({{< resource_file 2f896fc9-5689-288c-eb18-e22964408dd4 >}})
+{{< resource 2f896fc9-5689-288c-eb18-e22964408dd4 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Amazon Mechanical Turk (MTurk) is an online crowdsourcing platform that enables researchers to conduct large-scale experiments on the Internet. Many experiments described in this course were conducted on MTurk. (Image ® Amazon.com. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/))

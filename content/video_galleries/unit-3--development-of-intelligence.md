@@ -23,7 +23,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of a young boy building a tower out of wooden blocks.]({{< resource_file 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}})
+{{< resource 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -61,7 +61,7 @@ Unit Activities
 ### Useful Background
 
 *   Introduction to cognitive science
-*   Lectures by Josh Tenenbaum from the [Modeling Human Cognition]({{< baseurl >}}/video_galleries/unit-2.-modeling-human-cognition) unit provide useful background for the lecture by Josh Tenenbaum in this unit, and for the debate between Tomer Ullman and Laura Schulz
+*   Lectures by Josh Tenenbaum from the {{< resource_link 855d4e86-2ca9-e529-74f0-cdef3de9e9c0 "Modeling Human Cognition" >}} unit provide useful background for the lecture by Josh Tenenbaum in this unit, and for the debate between Tomer Ullman and Laura Schulz
 
 ### Videos and Slides
 

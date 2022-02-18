@@ -23,7 +23,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![An array of handwritten digits accompanied by a 3-D scatter plot.]({{< resource_file ccf77ab8-5d55-93ba-bc2e-33ad552f3a74 >}})
+{{< resource ccf77ab8-5d55-93ba-bc2e-33ad552f3a74 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Visualization of the results of _principal components analysis_ applied to high-dimensional data capturing visual properties of handwritten digits. The data was reduced to three dimensions that capture most of the variation in the original data, roughly segregating the data into the corresponding digits, as portrayed by the different colors of the data points. (Image courtesy of Lorenzo Rosasco, used with permission.)
@@ -41,7 +41,7 @@ Unit Activities
 ### Useful Background
 
 *   Introductions to calculus, linear algebra, probability and statistics
-*   Introduction to computer programming and MATLAB (see our [MATLAB Tutorial]({{< baseurl >}}/pages/tutorials/tutorial-2.-matlab-programming))
+*   Introduction to computer programming and MATLAB (see our {{< resource_link 8cd0ca9a-ec53-9f73-3f4c-198c13784445 "MATLAB Tutorial" >}})
 
 ### Videos and Slides
 

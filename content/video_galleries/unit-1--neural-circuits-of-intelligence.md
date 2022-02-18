@@ -24,7 +24,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram of primate brain with colored patches highlighting regions associated with different facial orientations.]({{< resource_file cf903a5c-b45b-6b69-103a-fc1c623af95f >}})
+{{< resource cf903a5c-b45b-6b69-103a-fc1c623af95f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Work by Winrich Freiwald and colleagues reveals a network of "face patches" in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. (Image courtesy of Winrich Friewald, used with permission.)
@@ -53,8 +53,8 @@ Unit Activities
 
 ### Useful Background
 
-*   Introduction to neuroscience, including the structure and function of neurons, functional organization of the brain, and common empirical methods such as single cell recording and fMRI. View the [video tutorial on neuroscience]({{< baseurl >}}/pages/tutorials/tutorial-1.-basic-neuroscience) by Leyla Isik.
-*   Introduction to machine learning, including simple linear classification methods. View Part 1 of the [video tutorial on machine learning]({{< baseurl >}}/pages/tutorials/tutorial-3.-machine-learning) by Lorenzo Rosasco.
+*   Introduction to neuroscience, including the structure and function of neurons, functional organization of the brain, and common empirical methods such as single cell recording and fMRI. View the {{< resource_link 3f513339-673d-7da1-ed3b-5faa17d7ad46 "video tutorial on neuroscience" >}} by Leyla Isik.
+*   Introduction to machine learning, including simple linear classification methods. View Part 1 of the {{< resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "video tutorial on machine learning" >}} by Lorenzo Rosasco.
 *   [Nancy's Brain Talks](http://nancysbraintalks.mit.edu/) includes short talks on fMRI and other brain imaging methods, and how these methods are used to study problems such as face perception.
 
 ### Videos and Slides

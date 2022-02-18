@@ -17,7 +17,7 @@ Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Logo of Center for Brains, Minds, and Machines, consisting of 3 overlapping patterned circles.]({{< resource_file e6684472-0ae1-8398-0367-5ee0ae8061af >}})
+{{< resource e6684472-0ae1-8398-0367-5ee0ae8061af >}}
 {{< tdclose >}}
 {{< tdopen >}}
 **Legend:** The [Center for Brains, Minds, and Machines](http://cbmm.mit.edu/) is dedicated to the study of intelligence—how the brain produces intelligent behavior and how this can be replicated in machines.

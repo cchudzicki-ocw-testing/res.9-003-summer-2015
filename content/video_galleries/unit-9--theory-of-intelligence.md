@@ -19,7 +19,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram showing a model of how objects within a street scene are associated with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally "AIT."]({{< resource_file ea34d43d-037f-bd1b-ec4d-c20f3e97567e >}})
+{{< resource ea34d43d-037f-bd1b-ec4d-c20f3e97567e >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Tomaso Poggio and his colleagues have developed a model of the early processing stages in the ventral visual pathway of the brain, which may underlie our ability to recognize object categories from visual input in a brief flash of less than 100 milliseconds. (Courtesy of Tomaso Poggio and Thomas Serre. From "[Models of visual cortex](http://www.scholarpedia.org/article/Models_of_visual_cortex)." _Scholarpedia_ 8 no. 4 (2013): 3516. License CC BY-NC-SA.)

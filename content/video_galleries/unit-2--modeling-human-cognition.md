@@ -19,7 +19,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and unstable tower of blocks.]({{< resource_file a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}})
+{{< resource a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of objects, may derive from "probabilistic programs" in our heads that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Aspects of these programs are learned from infancy, as a child interacts with the world. (Image courtesy of Josh Tenenbaum, used with permission.)
@@ -60,7 +60,7 @@ Additional information about the speaker's research and publications can be foun
 
 *   [Josh Tenenbaum, Computational Cognitive Science Group, MIT](http://cocosci.mit.edu/)
 
-See the [tutorial by Tomer Ulman]({{< baseurl >}}/pages/tutorials/tutorial-5-church-programming) on the implementation of probabilistic models using the Church programming language.
+See the {{< resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "tutorial by Tomer Ulman" >}} on the implementation of probabilistic models using the Church programming language.
 
 Baker, C. L., R. Saxe, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) _Cognition_ 113 (2009): 329–49.
 

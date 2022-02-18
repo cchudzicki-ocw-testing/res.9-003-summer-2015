@@ -21,7 +21,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram of human brain with two arrows emerging from the rear (occipital lobe). The ventral stream goes to the side, along the temporal lobe, and the dorsal stream goes toward the top of the brain.]({{< resource_file 7d776bec-a5cd-978c-d8d5-d36f13eb9597 >}})
+{{< resource 7d776bec-a5cd-978c-d8d5-d36f13eb9597 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 The _two-streams hypothesis_ distinguishes two processing pathways in the brain: The ventral stream (also known as the "what pathway") shown in purple and the dorsal stream (also known as the "where" pathway") shown in green. (Image © Wikipedia user Selket. License CC BY-SA. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/))

@@ -20,7 +20,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram of the human brain, with 5 subregions highlighted along the temporal lobe.]({{< resource_file 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}})
+{{< resource 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues reveals subregions of area STS in the human brain, roughly portrayed here, that are engaged in aspects of social cognition such as Theory of Mind, voice perception, language, and face analysis. (Image courtesy of Nancy Kanwisher, used with permission.)

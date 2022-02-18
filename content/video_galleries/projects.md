@@ -29,7 +29,7 @@ To facilitate the design of projects for the 2015 summer course, faculty instruc
 4.  Social intelligence
 5.  Theories of intelligence
 
-The 2015 [Project Ideas Document (PDF)]({{< baseurl >}}/resources/mitres_9_003sum15_proj) has brief summaries of project topics, with pointers to useful literature and other resources.
+The 2015 {{< resource_link fb4bdf4a-945c-b4f1-5150-e89d1d376049 "Project Ideas Document (PDF)" >}} has brief summaries of project topics, with pointers to useful literature and other resources.
 
 Student Project Video Introductions  
 

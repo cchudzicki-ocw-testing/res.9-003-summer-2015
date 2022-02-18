@@ -21,7 +21,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Plot of true classes vs. predicted classes, with a band of highest value proceeding from upper left to lower right.]({{< resource_file 930de496-ac6e-6629-9da3-9f86ce7dde29 >}})
+{{< resource 930de496-ac6e-6629-9da3-9f86ce7dde29 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 In experiments by Zhang et al. (2011), monkeys viewed images depicting different classes of objects while researchers measured the neural signals generated for each image in an area of the brain known as IT cortex. These signals were later _decoded_ to determine the particular object class that was viewed. This figure shows a _confusion matrix_ that captures how well the class predicted by the decoding model matches the true object class that was viewed. (Image courtesy of Ethan Myers, used with permission.)

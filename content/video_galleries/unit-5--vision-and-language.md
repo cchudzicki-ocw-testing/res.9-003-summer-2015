@@ -20,7 +20,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Still photo of a tall blue bin in center, with a man to the left standing with a folding chair and a man to the right with a backpack.]({{< resource_file f1377cde-cb2e-42cb-7c11-568e6a9c2eb6 >}})
+{{< resource f1377cde-cb2e-42cb-7c11-568e6a9c2eb6 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

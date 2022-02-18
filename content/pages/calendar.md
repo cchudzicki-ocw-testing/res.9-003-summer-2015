@@ -24,7 +24,7 @@ P = Panel discussion
 
 D = Debate
 
-See the [Instructors]({{< baseurl >}}/pages/syllabus/course-instructors-guest-speakers-and-icub-team) page for a list of each instructor's institutional and department affiliation.
+See the {{< resource_link 653d64c8-ddb9-eccf-38be-70b1c01c8ea3 "Instructors" >}} page for a list of each instructor's institutional and department affiliation.
 
 {{< tableopen >}}
 {{< theadopen >}}

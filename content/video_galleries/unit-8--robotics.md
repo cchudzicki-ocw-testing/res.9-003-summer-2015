@@ -23,7 +23,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of a mobile robot  with long "whiskers" protruding to the sides, brushing the whiskers on a person's hand.]({{< resource_file 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}})
+{{< resource 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Robotics researchers at the University of Sheffield, led by Tony Prescott, have built a robot that senses the environment with moving whiskers, incorporating a model of whisking behavior in rodents and observations of sensory-motor systems in the mammalian brain. (Image courtesy of Martin Pearson and Ben Mitchinson, used with permission.)

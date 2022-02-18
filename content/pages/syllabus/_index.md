@@ -54,7 +54,7 @@ Readings for each unit and tutorial provide a combination of useful background t
 
 ### Project Work
 
-Both the Brains, Minds and Machines summer course and the associated MIT course _9.523 Aspects of a Computational Theory of Intelligence_ (described in the [Instructor Insights]({{< baseurl >}}/pages/instructor-insights) section) incorporate an extended research-like project experience carried out individually or in small groups. Descriptions of sample projects related to each unit are provided. For some projects, there are additional resources such as readings, code, and data. Video presentations highlight a few of the summer course projects.
+Both the Brains, Minds and Machines summer course and the associated MIT course _9.523 Aspects of a Computational Theory of Intelligence_ (described in the {{< resource_link 3c41f493-e709-0029-8198-eb92c4d7a30d "Instructor Insights" >}} section) incorporate an extended research-like project experience carried out individually or in small groups. Descriptions of sample projects related to each unit are provided. For some projects, there are additional resources such as readings, code, and data. Video presentations highlight a few of the summer course projects.
 
 Acknowledgements
 ----------------

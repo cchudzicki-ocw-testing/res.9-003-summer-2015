@@ -11,11 +11,11 @@ Several background tutorials are included to complement the instruction and acti
 
 The tutorial topics are:
 
-1.  {{< resource_link 3f513339-673d-7da1-ed3b-5faa17d7ad46 "Basic Neuroscience" >}}
-2.  {{< resource_link 8cd0ca9a-ec53-9f73-3f4c-198c13784445 "MATLAB Programming" >}}
-3.  {{< resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "Machine Learning" >}}
-4.  {{< resource_link 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561 "Neural Decoding" >}}
-5.  {{< resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "Church Programming" >}}
-6.  {{< resource_link 7e2b7b55-eaa4-6494-579e-611d46d28b3a "Amazon Mechanical Turk" >}}
+1.  {{% resource_link 3f513339-673d-7da1-ed3b-5faa17d7ad46 "Basic Neuroscience" %}}
+2.  {{% resource_link 8cd0ca9a-ec53-9f73-3f4c-198c13784445 "MATLAB Programming" %}}
+3.  {{% resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "Machine Learning" %}}
+4.  {{% resource_link 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561 "Neural Decoding" %}}
+5.  {{% resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "Church Programming" %}}
+6.  {{% resource_link 7e2b7b55-eaa4-6494-579e-611d46d28b3a "Amazon Mechanical Turk" %}}
 
 Materials for additional tutorials can be found at the [Brains, Minds and Machines Summer Course](http://cbmm.mit.edu/summer-school) website.

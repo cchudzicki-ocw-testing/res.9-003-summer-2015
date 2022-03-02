@@ -46,8 +46,8 @@ Unit Activities
 ### Useful Background
 
 *   Introductions to neuroscience and cognitive science
-*   Background on the sociality of primates and its connection to intelligence, from Winrich Freiwald's {{< resource_link e1619dcf-4933-8ee6-8458-d20fd651289a "Lecture L1.5" "#L1.5" >}} in Unit 1: Neural Circuits of Intelligence.
-*   An introduction to machine learning is useful for Part 2 of Rebecca Saxe's lecture. View {{< resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "Tutorial T3.1 Machine Learning (Part1)" "#Machine_learning_part1" >}} by Lorenzo Rosasco.
+*   Background on the sociality of primates and its connection to intelligence, from Winrich Freiwald's {{% resource_link e1619dcf-4933-8ee6-8458-d20fd651289a "Lecture L1.5" "#L1.5" %}} in Unit 1: Neural Circuits of Intelligence.
+*   An introduction to machine learning is useful for Part 2 of Rebecca Saxe's lecture. View {{% resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "Tutorial T3.1 Machine Learning (Part1)" "#Machine_learning_part1" %}} by Lorenzo Rosasco.
 
 ### Videos and Slides
 

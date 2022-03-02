@@ -38,9 +38,9 @@ Instructor Insights
 
 _In the following pages, Prof. Ellen Hildreth reflects on how_ 9.523 Aspects of a Computational Theory of Intelligence _was taught and how the_ Brains, Minds, and Machines (BMM) _summer course materials can be used to design other full-semester courses._
 
-*   {{< resource_link 8aaec61e-e6fe-9066-e116-b7dbb69aa309 "Fostering the Development of Interdisciplinary Thinking" >}}
-*   {{< resource_link c377690a-06a5-9c86-78a3-5e5ec8379fbb "Maintaining Intellectual Coherence across a Wide Range of Topics Related to Intelligence" >}}
-*   {{< resource_link b19bee0a-8658-e1cd-59a8-2f3f0d7d83c4 "Designing Full-Semester Courses with More Focused Content" >}}
+*   {{% resource_link 8aaec61e-e6fe-9066-e116-b7dbb69aa309 "Fostering the Development of Interdisciplinary Thinking" %}}
+*   {{% resource_link c377690a-06a5-9c86-78a3-5e5ec8379fbb "Maintaining Intellectual Coherence across a Wide Range of Topics Related to Intelligence" %}}
+*   {{% resource_link b19bee0a-8658-e1cd-59a8-2f3f0d7d83c4 "Designing Full-Semester Courses with More Focused Content" %}}
 
 Curriculum Information
 ----------------------

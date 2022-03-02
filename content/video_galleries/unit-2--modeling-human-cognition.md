@@ -60,7 +60,7 @@ Additional information about the speaker's research and publications can be foun
 
 *   [Josh Tenenbaum, Computational Cognitive Science Group, MIT](http://cocosci.mit.edu/)
 
-See the {{< resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "tutorial by Tomer Ulman" >}} on the implementation of probabilistic models using the Church programming language.
+See the {{% resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "tutorial by Tomer Ulman" %}} on the implementation of probabilistic models using the Church programming language.
 
 Baker, C. L., R. Saxe, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) _Cognition_ 113 (2009): 329–49.
 

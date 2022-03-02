@@ -41,7 +41,7 @@ Unit Activities
 ### Useful Background
 
 *   Introductions to calculus, linear algebra, probability and statistics
-*   Introduction to computer programming and MATLAB (see our {{< resource_link 8cd0ca9a-ec53-9f73-3f4c-198c13784445 "MATLAB Tutorial" >}})
+*   Introduction to computer programming and MATLAB (see our {{% resource_link 8cd0ca9a-ec53-9f73-3f4c-198c13784445 "MATLAB Tutorial" %}})
 
 ### Videos and Slides
 

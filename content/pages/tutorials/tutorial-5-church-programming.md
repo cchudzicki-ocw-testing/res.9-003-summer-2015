@@ -40,7 +40,7 @@ Unit Activities
 ### Useful Background
 
 *   Introductions to probability and probabilistic approaches to modeling behavior
-*   {{< resource_link 855d4e86-2ca9-e529-74f0-cdef3de9e9c0 "Video lectures" >}} on computational models of cognition by Josh Tenenbaum
+*   {{% resource_link 855d4e86-2ca9-e529-74f0-cdef3de9e9c0 "Video lectures" %}} on computational models of cognition by Josh Tenenbaum
 *   Introduction to computer programming
 
 ### Videos and Slides
@@ -50,7 +50,7 @@ Unit Activities
 
 ### Code
 
-{{< resource_link 3a08df29-46c9-1378-cf03-d672fec3e037 "Church\_examples (RTF)" >}} contains the code examples described in the two-part tutorial video. These examples can be executed by copying the code into one of the following Church programming environments. Code can also be written from scratch and modified in these environments:
+{{% resource_link 3a08df29-46c9-1378-cf03-d672fec3e037 "Church\_examples (RTF)" %}} contains the code examples described in the two-part tutorial video. These examples can be executed by copying the code into one of the following Church programming environments. Code can also be written from scratch and modified in these environments:
 
 1.  First edition of the [Probabilistic Models of Cognition](http://v1.probmods.org/) electronic text, cited in the section below on _Future Study_, which includes a separate [Play space](http://v1.probmods.org/play-space.html) where code can be copied, modified, and executed
 2.  [webchurch engine](https://github.com/probmods/webchurch) that runs Church code in a web browser, which is available on GitHub for download onto your local computer

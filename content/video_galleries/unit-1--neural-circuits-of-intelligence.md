@@ -1,8 +1,6 @@
 ---
 content_type: video_gallery
-is_media_gallery: true
-learning_resource_types: []
-ocw_type: SupplementalResourceSection
+draft: false
 title: Unit 1. Neural Circuits of Intelligence
 uid: e1619dcf-4933-8ee6-8458-d20fd651289a
 videos:
@@ -17,24 +15,12 @@ videos:
   - a96b1d4d-a0d4-81a6-26e0-748b3088868d
   website: res-9-003-brains-minds-and-machines-summer-course-summer-2015
 ---
+## Unit Overview
 
-Unit Overview
--------------
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}{{< resource cf903a5c-b45b-6b69-103a-fc1c623af95f >}}
+{{< tdclose >}}{{< tdopen >}}Work by Winrich Freiwald and colleagues reveals a network of "face patches" in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. (Image courtesy of Winrich Friewald, used with permission.){{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource cf903a5c-b45b-6b69-103a-fc1c623af95f >}}
-{{< tdclose >}}
-{{< tdopen >}}
-Work by Winrich Freiwald and colleagues reveals a network of "face patches" in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. (Image courtesy of Winrich Friewald, used with permission.)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-How does intelligence emerge from the activity of neural circuits in the brain? In this unit you will learn about empirical methods used to probe neural activity and what these methods reveal about the neural processes underlying important tasks such as visual recognition in humans and primates, and spatial navigation in lower mammals.
+How does intelligence emerge from the activity of neural circuits in the brain? In this unit you will learn about empirical methods used to probe neural activity and what these methods reveal about the neural processes underlying important tasks such as visual recognition in humans and primates, and spatial navigation in lower mammals. cats and dogs
 
 From Nancy Kanwisher, you will learn that the brain contains areas of functional specialization for the processing of faces, language, speech, and the Theory of Mind.
 
@@ -48,31 +34,28 @@ The hippocampus plays a central role in the formation of memories that connect l
 
 A fly may not seem very intelligent, but the simplicity of its neural circuitry provides the opportunity for a complete understanding of a biological function, from neurons to behavior. The guest lecture by Larry Abbott explores the computations performed by neural circuits of the fly's olfactory system and how the fly learns to distinguish scents.
 
-Unit Activities
----------------
+## Unit Activities
 
 ### Useful Background
 
-*   Introduction to neuroscience, including the structure and function of neurons, functional organization of the brain, and common empirical methods such as single cell recording and fMRI. View the {{% resource_link 3f513339-673d-7da1-ed3b-5faa17d7ad46 "video tutorial on neuroscience" %}} by Leyla Isik.
-*   Introduction to machine learning, including simple linear classification methods. View Part 1 of the {{% resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "video tutorial on machine learning" %}} by Lorenzo Rosasco.
-*   [Nancy's Brain Talks](http://nancysbraintalks.mit.edu/) includes short talks on fMRI and other brain imaging methods, and how these methods are used to study problems such as face perception.
+- Introduction to neuroscience, including the structure and function of neurons, functional organization of the brain, and common empirical methods such as single cell recording and fMRI. View the {{% resource_link 3f513339-673d-7da1-ed3b-5faa17d7ad46 "video tutorial on neuroscience" %}} by Leyla Isik.
+- Introduction to machine learning, including simple linear classification methods. View Part 1 of the {{% resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "video tutorial on machine learning" %}} by Lorenzo Rosasco.
+- [Nancy's Brain Talks](http://nancysbraintalks.mit.edu/) includes short talks on fMRI and other brain imaging methods, and how these methods are used to study problems such as face perception.
 
 ### Videos and Slides
 
 {{< video-gallery "e1619dcf-4933-8ee6-8458-d20fd651289a" >}}
 
-
-Further Study
--------------
+## Further Study
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-*   [Larry Abbott, Center for Theoretical Neuroscience, Columbia University](http://www.neurotheory.columbia.edu/larry.html)
-*   [James DiCarlo, MIT](http://dicarlolab.mit.edu/)
-*   [Winrich Freiwald, Laboratory of Neural Systems, The Rockefeller University](http://www.rockefeller.edu/research/faculty/labheads/WinrichFreiwald/#content)
-*   [Nancy Kanwisher, MIT](http://web.mit.edu/bcs/nklab/)
-*   [Gabriel Kreiman, Harvard](http://klab.tch.harvard.edu/#sthash.wP5ThJg1.dpbs)
-*   [Matt Wilson, MIT](http://web.mit.edu/org/w/wilsonlab/)
+- [Larry Abbott, Center for Theoretical Neuroscience, Columbia University](http://www.neurotheory.columbia.edu/larry.html)
+- [James DiCarlo, MIT](http://dicarlolab.mit.edu/)
+- [Winrich Freiwald, Laboratory of Neural Systems, The Rockefeller University](http://www.rockefeller.edu/research/faculty/labheads/WinrichFreiwald/#content)
+- [Nancy Kanwisher, MIT](http://web.mit.edu/bcs/nklab/)
+- [Gabriel Kreiman, Harvard](http://klab.tch.harvard.edu/#sthash.wP5ThJg1.dpbs)
+- [Matt Wilson, MIT](http://web.mit.edu/org/w/wilsonlab/)
 
 Aso, Y., D. Hattori, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Neuronal Architecture of the Mushroom Body Provides a Logic for Associative Learning." (PDF - 7.7MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273437/pdf/elife04577.pdf) _eLife_ 3, no. e04577 (2014): 1–47.
 
@@ -94,11 +77,11 @@ Freiwald, W. A., D. Y. Tsao, et al. ![This resource may not render correctly in 
 
 Hung, C. P., G. Kreiman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fast Readout of Object Identity from Macaque Inferior Temporal Cortex." (PDF)](https://science.sciencemag.org/content/310/5749/863) _Science_ 310 (2005): 863–66.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019163) Kanwisher, N., and D. Dilks, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Functional Organization of the Ventral Visual Pathway in Humans." (PDF)](http://web.mit.edu/bcs/nklab/media/pdfs/KanwisherDilks.in Chalupa_WernerTNVN.inpress.pdf) In _The New Visual Neurosciences_. Edited by L. Chalupa and J. Werner. MIT Press, 2013, pp. 733–48. ISBN: 9780262019163.
+![Buy at MIT Press](/images/mp_logo.gif) Kanwisher, N., and D. Dilks, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)\["The Functional Organization of the Ventral Visual Pathway in Humans." (PDF)\]([http://web.mit.edu/bcs/nklab/media/pdfs/KanwisherDilks.in](http://web.mit.edu/bcs/nklab/media/pdfs/KanwisherDilks.in) Chalupa\_WernerTNVN.inpress.pdf) In _The New Visual Neurosciences_. Edited by L. Chalupa and J. Werner. MIT Press, 2013, pp. 733–48. ISBN: 9780262019163.
 
 Kreiman, G. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Computational Models of Visual Object Recognition." (PDF)](http://klab.tch.harvard.edu/publications/PDFs/gk3760_K12460_C029.pdf) In _Principles of Neural Coding_. Edited by R. Q. Quiroga and S. Panzeri. CRC Press, 2013, pp. 565–80. ISBN: 9781439853306. \[Preview with [Google Books](http://books.google.com/books?id=-vimcQPssQYC&pg=PA565=onepage)\]
 
-Meyers, E. M., M. Borzello, et al. "[Intelligent Information Loss: The Coding of Facial Identity, Head Pose, and Non-Face Information in the Macaque Face Patch System](http://dx.doi.org/10.1523/JNEUROSCI.3086-14.2015 )." _Journal of Neuroscience_ 35, no. 18 (2015): 7069–81.
+Meyers, E. M., M. Borzello, et al. "[Intelligent Information Loss: The Coding of Facial Identity, Head Pose, and Non-Face Information in the Macaque Face Patch System](http://dx.doi.org/10.1523/JNEUROSCI.3086-14.2015)." _Journal of Neuroscience_ 35, no. 18 (2015): 7069–81.
 
 Miconi, T., L. Groomes, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["There's Waldo! A Normalization Model of Visual Search Predicts Single-Trial Human Fixations in an Object Search Task." (PDF - 6.5MB)](http://klab.tch.harvard.edu/publications/PDFs/gk7156.pdf) _Cerebral Cortex_ 26, no. 7 (2015): 3064–82.
 

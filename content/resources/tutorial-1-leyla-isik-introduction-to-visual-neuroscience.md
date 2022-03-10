@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Basic neuroscience (PDF - 1.1MB)](resources/mitres_9_003sum15_tut1)'
+optional_text: '[Basic neuroscience (PDF - 1.1MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_tut1)'
 parent_title: Tutorial 1. Basic Neuroscience
 parent_type: SupplementalResourceSection
 related_resources_text: ''

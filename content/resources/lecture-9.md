@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[iTheory: Visual cortex and deep networks (PDF)](resources/mitres_9_003sum15_lec9-1)'
+optional_text: '[iTheory: Visual cortex and deep networks (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec9-1)'
 parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''

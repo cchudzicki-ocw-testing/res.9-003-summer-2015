@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](resources/mitres_9_003sum15_tut6)'
+optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_tut6)'
 parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
 related_resources_text: ''

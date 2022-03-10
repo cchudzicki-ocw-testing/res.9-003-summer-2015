@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Mapping, localization, and self-driving vehicles (PDF - 4.5MB)](resources/mitres_9_003sum15_lec8-2)'
+optional_text: '[Mapping, localization, and self-driving vehicles (PDF - 4.5MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec8-2)'
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 related_resources_text: ''

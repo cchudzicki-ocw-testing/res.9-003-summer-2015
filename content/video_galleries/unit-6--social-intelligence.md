@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 6. Social Intelligence
 uid: 4bd64119-b362-cdc8-35b3-9ea8424f1390
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - e3737c7b-cd6c-e66d-2e6f-c4d91a2503e9

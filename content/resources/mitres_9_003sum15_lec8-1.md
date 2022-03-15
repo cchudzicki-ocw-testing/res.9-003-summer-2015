@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MIT's Entry into the DARPA Robotics Challenge
 uid: 6f149b75-987b-94b8-76a8-0d957dd3119d
+video_metadata:
+  youtube_id: null
 ---

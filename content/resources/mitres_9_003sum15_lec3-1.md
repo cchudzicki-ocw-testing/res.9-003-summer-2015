@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Cognition in Infancy
 uid: 1dee4a7e-0da0-543f-e5fe-b90cb7b86895
+video_metadata:
+  youtube_id: null
 ---

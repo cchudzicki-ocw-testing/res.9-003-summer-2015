@@ -21,4 +21,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit6.jpg
 uid: 1ec1934e-bf22-f51a-57e4-1dc1839a438b
+video_metadata:
+  youtube_id: null
 ---

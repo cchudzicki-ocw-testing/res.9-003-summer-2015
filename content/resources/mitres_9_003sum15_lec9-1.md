@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'iTheory: Visual Cortex and Deep Networks'
 uid: c4007fd2-17d2-be30-b1c7-adca0ee0fc2e
+video_metadata:
+  youtube_id: null
 ---

@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Computational cognitive science (PDF - 5.4MB)](resources/mitres_9_003sum15_lec2-1)'
+optional_text: '[Computational cognitive science (PDF - 5.4MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec2-1)'
 parent_title: Unit 2. Modeling Human Cognition
 parent_type: SupplementalResourceSection
 related_resources_text: ''

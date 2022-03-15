@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Probing sensory representations with metameric stimuli (PDF - 8.7MB)](resources/mitres_9_003sum15_sem4-1)'
+optional_text: '[Probing sensory representations with metameric stimuli (PDF - 8.7MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_sem4-1)'
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''

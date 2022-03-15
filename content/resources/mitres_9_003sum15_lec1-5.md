@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Of Primates, Faces, and Intelligence
 uid: 948e9f73-7f7d-1cba-eee0-3728f90528f5
+video_metadata:
+  youtube_id: null
 ---

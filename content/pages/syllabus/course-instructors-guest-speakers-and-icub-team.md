@@ -7,6 +7,8 @@ parent_type: SupplementalResourceSection
 parent_uid: d5687d1c-8069-f9c0-0d9e-816575ca680a
 title: Course Instructors, Guest Speakers, and iCub Team
 uid: 653d64c8-ddb9-eccf-38be-70b1c01c8ea3
+video_metadata:
+  youtube_id: null
 ---
 
 The affiliations listed below were current as August 2015, when this course was taught; some affiliations will change over time.

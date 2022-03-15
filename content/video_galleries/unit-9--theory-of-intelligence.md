@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 9. Theory of Intelligence
 uid: a9e7f99a-ce34-3b66-1440-d2ef1d026bdf
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - a4f05057-174c-8897-29a8-66b2cf2a5444

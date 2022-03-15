@@ -36,4 +36,6 @@ ocw_type: OCWImage
 resourcetype: Image
 title: res-9-003sum15-th.jpg
 uid: 02c7850b-19db-e02d-bd2f-d19454c023ad
+video_metadata:
+  youtube_id: null
 ---

@@ -9,6 +9,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 1. Basic Neuroscience
 uid: 3f513339-673d-7da1-ed3b-5faa17d7ad46
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - beca4cb7-f4d0-0fad-1122-a2a9f5f189c5

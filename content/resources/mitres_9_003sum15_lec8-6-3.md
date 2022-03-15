@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'iCub: An overview'
 uid: 3a6c121c-d4b4-81dc-8f76-58405c1e89c6
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Multi-Sensory Integration for the Icub Robot
 uid: 7d34d29f-86f0-5393-4003-09d922818299
+video_metadata:
+  youtube_id: null
 ---

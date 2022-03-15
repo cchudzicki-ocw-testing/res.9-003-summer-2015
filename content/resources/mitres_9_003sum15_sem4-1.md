@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Probing Sensory Representations with Metameric Stimuli
 uid: 74750eb1-7b61-2c77-9697-f2a5a1b5e965
+video_metadata:
+  youtube_id: null
 ---

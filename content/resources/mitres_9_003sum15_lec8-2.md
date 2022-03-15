@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Mapping, Localization, and Self-Driving Vehicles
 uid: f261edde-6d4c-414a-c97c-21e22360c905
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,6 @@ parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: edu_b-noclass-p symbol
 uid: 7aa19afe-2679-4219-dcbb-a4f8febdff6d
+video_metadata:
+  youtube_id: null
 ---

@@ -6,7 +6,7 @@ learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Debate on theories, imagination, and the generation of ideas (PDF
-  - 4.4MB)](resources/mitres_9_003sum15_debate3)'
+  - 4.4MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_debate3)'
 parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''

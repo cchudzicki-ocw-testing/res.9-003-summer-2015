@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'iCub: An Open Source Platform for Research in Robotics & Ai'
 uid: 6e76306c-5554-05b6-c57d-71be39f40f99
+video_metadata:
+  youtube_id: null
 ---

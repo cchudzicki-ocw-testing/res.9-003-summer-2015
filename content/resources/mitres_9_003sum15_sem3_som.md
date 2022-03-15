@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Infants' Sensitivity to Cost and Benefit
 uid: d655fd70-d188-0f79-aed1-4110cee90d41
+video_metadata:
+  youtube_id: null
 ---

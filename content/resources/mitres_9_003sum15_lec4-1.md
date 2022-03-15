@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: From Simple Innate Biases to Complex Visual Concepts
 uid: aceffb86-ec74-7d47-8cb5-7cad64ddb855
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'A Mind in the Fly Brain '
 uid: afaa7ccc-d427-0598-ed33-4e914da364ae
+video_metadata:
+  youtube_id: null
 ---

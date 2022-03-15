@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Hippocampus, Memory, and Sleep
 uid: 53fb0983-0813-fa70-11db-98fb7d1a121a
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Human-Robot Collaboration
 uid: d3fda03c-db21-b35a-ba58-33370e1ca06e
+video_metadata:
+  youtube_id: null
 ---

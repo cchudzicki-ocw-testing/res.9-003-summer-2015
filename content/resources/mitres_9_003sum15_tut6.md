@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Amazon Mechanical Turk Tutorial
 uid: 13eef278-bfa7-a1b3-a320-41c34dd36685
+video_metadata:
+  youtube_id: null
 ---

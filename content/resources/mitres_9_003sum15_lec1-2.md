@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Computational Roles of Feedback and Recurrent Connections in Visual Cortex
 uid: 068e411e-dffb-3c15-77cc-2928a45ab795
+video_metadata:
+  youtube_id: null
 ---

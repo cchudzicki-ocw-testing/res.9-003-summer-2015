@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 5. Vision and Language
 uid: 8d2bd38c-682c-4509-eb22-aad86d4047ab
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 3f44938a-4bb6-24b3-9af4-155e0e414802

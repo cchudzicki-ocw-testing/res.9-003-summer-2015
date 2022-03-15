@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 7. Audition and Speech
 uid: 67de5f18-8df4-42c1-f171-08d83925c7a8
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - b1cdcd1c-0ff5-0f9c-498b-e92f74007790

@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Church Tutorial
 uid: 112ab1d6-d453-148f-2830-4f346b6fb7f4
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: SupplementalResourceSection
 title: Tutorials
 uid: 1991b27f-a447-8dc0-a6a2-79748088784f
+video_metadata:
+  youtube_id: null
 ---
 
 Several background tutorials are included to complement the instruction and activities presented in the units. Most of the tutorials include video instruction as well as supplemental material and exercises for further study.

@@ -9,6 +9,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 6. Amazon Mechanical Turk
 uid: 7e2b7b55-eaa4-6494-579e-611d46d28b3a
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 2e690401-060a-2e44-e74e-0641287f7e11

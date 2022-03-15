@@ -9,6 +9,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 3. Machine Learning
 uid: 8f197fff-9848-87e6-768b-3b708afa1b7d
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - b0284e9f-d437-667e-0932-36c05e21d0d9

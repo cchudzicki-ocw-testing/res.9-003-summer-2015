@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: FF_MNIST_sol.zip
 uid: ad9a22d9-d1c1-3e98-5072-17c27b01448c
+video_metadata:
+  youtube_id: null
 ---

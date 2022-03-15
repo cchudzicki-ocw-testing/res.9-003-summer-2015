@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Debate on Theories, Imagination, and the Generation of Ideas
 uid: 2cc1e968-a459-619e-a876-48597f1ae80c
+video_metadata:
+  youtube_id: null
 ---

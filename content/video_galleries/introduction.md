@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Introduction
 uid: 49281236-ae8b-1802-f634-42f7bcf66a2c
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - cd7054b1-df8e-50d7-39a9-7ea4172b9395

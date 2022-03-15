@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: The Child as Scientist
 uid: a1d7faab-467a-b401-7f59-c4f6fc23539b
+video_metadata:
+  youtube_id: null
 ---

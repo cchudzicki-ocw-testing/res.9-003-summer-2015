@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Social Intelligence
 uid: a96f8312-1b4b-4c67-3fa9-a4a51ec9dde1
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Basic Neuroscience
 uid: 8d5538b0-1b0f-c12d-3ad5-9637a243dd54
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 2015 Project Ideas
 uid: fb4bdf4a-945c-b4f1-5150-e89d1d376049
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 3. Development of Intelligence
 uid: 94e8157f-d23e-186e-1a9d-9a3ad7db02e4
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 3261bc60-d237-f03b-b592-8ac278a66435

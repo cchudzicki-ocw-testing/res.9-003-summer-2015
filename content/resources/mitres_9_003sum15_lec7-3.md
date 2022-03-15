@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Functional Specialization in Human Auditory Cortex
 uid: 0c5f2e44-9745-7934-0c54-2cafce6805f4
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Developing an Understanding of Communication
 uid: 55e4dd9b-20cd-3bd3-bc89-47d6abecdc11
+video_metadata:
+  youtube_id: null
 ---

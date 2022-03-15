@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Computational Cognitive Science
 uid: 6da545b6-740e-5d8f-a241-230cb61bfebf
+video_metadata:
+  youtube_id: null
 ---

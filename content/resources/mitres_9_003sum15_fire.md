@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Integrate and Fire Model of Neural Activation
 uid: bea7cfe5-2f23-5cc9-7c94-9990df7fb0e3
+video_metadata:
+  youtube_id: null
 ---

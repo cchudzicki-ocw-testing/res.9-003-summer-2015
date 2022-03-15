@@ -22,4 +22,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit9.jpg
 uid: ea34d43d-037f-bd1b-ec4d-c20f3e97567e
+video_metadata:
+  youtube_id: null
 ---

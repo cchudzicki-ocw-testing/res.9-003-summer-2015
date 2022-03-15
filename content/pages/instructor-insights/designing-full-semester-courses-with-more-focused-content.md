@@ -8,6 +8,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 title: Designing Full-semester Courses with More Focused Content
 uid: b19bee0a-8658-e1cd-59a8-2f3f0d7d83c4
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Prof. Ellen Hildreth shares how materials offered through this OCW course can be used to design full-semester courses with more focused content._

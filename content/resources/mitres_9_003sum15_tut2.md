@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MATLAB: Goldman / Zysman Introductory Tutorial'
 uid: d82a14ff-eb24-f8c7-7cc2-2bf263ebc6b2
+video_metadata:
+  youtube_id: null
 ---

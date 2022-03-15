@@ -14,4 +14,6 @@ parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: res-9-003 classroom
 uid: fee489fd-d169-6d92-d2de-9d2c193714f7
+video_metadata:
+  youtube_id: null
 ---

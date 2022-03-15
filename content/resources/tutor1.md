@@ -22,4 +22,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: tutor1.jpg
 uid: 7d776bec-a5cd-978c-d8d5-d36f13eb9597
+video_metadata:
+  youtube_id: null
 ---

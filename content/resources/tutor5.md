@@ -23,4 +23,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: tutor5.jpg
 uid: 20b84384-fbe1-fff3-7d7e-31991157e720
+video_metadata:
+  youtube_id: null
 ---

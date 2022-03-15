@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: integrate_fire_sol.zip
 uid: c06d530a-0768-8ecc-a294-e621a9a84687
+video_metadata:
+  youtube_id: null
 ---

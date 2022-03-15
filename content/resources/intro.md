@@ -19,4 +19,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: intro.jpg
 uid: e6684472-0ae1-8398-0367-5ee0ae8061af
+video_metadata:
+  youtube_id: null
 ---

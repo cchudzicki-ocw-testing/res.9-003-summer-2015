@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Cognition in infancy (PDF - 2.2MB)](resources/mitres_9_003sum15_lec3-1)'
+optional_text: '[Cognition in infancy (PDF - 2.2MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec3-1)'
 parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''

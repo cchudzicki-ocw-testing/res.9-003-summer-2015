@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'MVPA: Opening a New Window on the Mind Via fMRI'
 uid: f5296062-2706-3801-5496-4ffc8c2fa30b
+video_metadata:
+  youtube_id: null
 ---

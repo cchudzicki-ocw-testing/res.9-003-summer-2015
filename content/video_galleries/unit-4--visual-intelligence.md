@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 4. Visual Intelligence
 uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 5cc7066f-9317-499a-9601-b77e09b3db7a

@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Predicting Visual Memory: Behavioral, Neuroscience, And Computational Accounts'
 uid: b9b75a07-99b5-ea40-e50c-4ee47beb6764
+video_metadata:
+  youtube_id: null
 ---

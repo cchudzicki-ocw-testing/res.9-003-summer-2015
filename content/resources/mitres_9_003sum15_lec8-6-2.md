@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Teaching iCub to recognize objects
 uid: d1f5dd9d-bcfa-f5bb-2411-2785e64fe082
+video_metadata:
+  youtube_id: null
 ---

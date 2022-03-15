@@ -6,7 +6,7 @@ learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[The story understanding story: The truth about human intelligence
-  (PDF - 2.4MB)](resources/mitres_9_003sum15_lec5-3)'
+  (PDF - 2.4MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec5-3)'
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
 related_resources_text: ''

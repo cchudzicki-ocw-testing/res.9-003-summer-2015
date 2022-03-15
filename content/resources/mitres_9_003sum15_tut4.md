@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Understanding Neural Content and Coding Using Population Decoding
 uid: 31d58010-4b3c-fec8-1168-562938b30ec8
+video_metadata:
+  youtube_id: null
 ---

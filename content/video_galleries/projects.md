@@ -6,6 +6,8 @@ learning_resource_types:
 ocw_type: SupplementalResourceSection
 title: Projects
 uid: 5a9d01c0-741d-24bb-27ad-5970bde6ab28
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 48effe19-8a4c-dae5-a0f4-f070d0d2025f

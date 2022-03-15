@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Vision and Language
 uid: 54095e16-3a84-d43f-86d6-b3299931b40f
+video_metadata:
+  youtube_id: null
 ---

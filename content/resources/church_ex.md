@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: church_ex.rtf
 uid: 3a08df29-46c9-1378-cf03-d672fec3e037
+video_metadata:
+  youtube_id: null
 ---

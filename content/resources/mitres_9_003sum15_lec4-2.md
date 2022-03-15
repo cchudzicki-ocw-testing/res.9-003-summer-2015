@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Atoms of Recognition in Human and Computer Vision
 uid: 6e754ea2-1963-10f5-ef69-f2e8a062ada2
+video_metadata:
+  youtube_id: null
 ---

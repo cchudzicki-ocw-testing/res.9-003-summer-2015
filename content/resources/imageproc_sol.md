@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: imageproc_sol.zip
 uid: 3c115c12-08c9-a715-8cac-8983b4250741
+video_metadata:
+  youtube_id: null
 ---

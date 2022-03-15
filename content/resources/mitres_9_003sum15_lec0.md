@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Introduction to the Study of Intelligence in Brains, Minds, and Machines
 uid: dfee4de7-9333-806a-fbdb-8b5fd92adbe1
+video_metadata:
+  youtube_id: null
 ---

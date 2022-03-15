@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Introduction to Human Cognitive Neuroscience
 uid: 7580dfed-8705-06e6-4118-35af4185edbc
+video_metadata:
+  youtube_id: null
 ---

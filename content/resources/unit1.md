@@ -20,4 +20,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit1.jpg
 uid: cf903a5c-b45b-6b69-103a-fc1c623af95f
+video_metadata:
+  youtube_id: null
 ---

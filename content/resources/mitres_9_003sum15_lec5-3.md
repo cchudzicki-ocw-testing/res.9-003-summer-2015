@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'The Story Understanding Story: The Truth About Human Intelligence'
 uid: 700e930d-9a13-bb0e-5f9f-c1b1f39578a3
+video_metadata:
+  youtube_id: null
 ---

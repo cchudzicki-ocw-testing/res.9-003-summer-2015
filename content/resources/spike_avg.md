@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: spike_avg.zip
 uid: cb79871e-e4f1-4cd8-5caa-452f4a859f05
+video_metadata:
+  youtube_id: null
 ---

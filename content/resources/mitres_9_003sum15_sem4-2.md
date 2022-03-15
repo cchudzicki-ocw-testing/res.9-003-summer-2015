@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Computer Vision, Wearable Computing, and the Future of Transportation
 uid: c6d337a0-db1b-0476-eb8f-8643d0766589
+video_metadata:
+  youtube_id: null
 ---

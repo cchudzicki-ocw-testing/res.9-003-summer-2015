@@ -9,6 +9,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: 'Tutorial 5: Church Programming'
 uid: 32907aca-b7d5-1972-49b3-b36fb769ce08
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 3953a4fd-a909-910d-c0f2-697c6200da75

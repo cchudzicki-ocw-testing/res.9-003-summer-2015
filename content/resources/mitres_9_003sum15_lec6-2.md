@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: The Social Mind
 uid: 2961c3bc-a4f6-e444-3931-b5336b4bfde6
+video_metadata:
+  youtube_id: null
 ---

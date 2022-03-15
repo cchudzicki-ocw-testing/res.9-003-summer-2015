@@ -6,7 +6,7 @@ learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Introduction to the study of intelligence in brains, minds, and machines
-  (PDF)](resources/mitres_9_003sum15_lec0)'
+  (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec0)'
 parent_title: Introduction
 parent_type: SupplementalResourceSection
 related_resources_text: ''

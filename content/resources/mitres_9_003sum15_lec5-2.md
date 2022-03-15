@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: From Language to Vision and Back Again
 uid: feef4cf4-fdfa-5b76-cc8d-1b7ec8b3c71c
+video_metadata:
+  youtube_id: null
 ---

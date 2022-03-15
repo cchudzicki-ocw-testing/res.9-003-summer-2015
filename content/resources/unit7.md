@@ -23,4 +23,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Image
 title: unit7.jpg
 uid: c184198a-ec04-736f-c5ee-84b08da84cbd
+video_metadata:
+  youtube_id: null
 ---

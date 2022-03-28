@@ -11,9 +11,9 @@ video_metadata:
 ---
 ## Course Overview
 
-Elements of the [Brains, Minds, and Machines (BMM) summer course](http://cbmm.mit.edu/summer-school) are integrated into the MIT course, _9.523 Aspects of a Computational Theory of Intelligence._ This page focuses on _9.523_ as it was taught by Profs. Tomaso Poggio, Shimon Ullman, Patrick Winston, and Ellen Hildreth (Wellesley College) in Fall 2015. It also provides insight into how materials from the Brains, Minds, and Machines (BMM) summer course can be used to form the basis of full-semester courses at other institutions.
+Elements of the [Brains, Minds, and Machines (BMM) summer course](http://cbmm.mit.edu/summer-school) are integrated into the MIT course, *9.523 Aspects of a Computational Theory of Intelligence.* This page focuses on *9.523* as it was taught by Profs. Tomaso Poggio, Shimon Ullman, Patrick Winston, and Ellen Hildreth (Wellesley College) in Fall 2015. It also provides insight into how materials from the Brains, Minds, and Machines (BMM) summer course can be used to form the basis of full-semester courses at other institutions.
 
-Like the summer course, _9.523_ _Aspects of a Computational Theory of Intelligence_ introduced students to research on intelligence that integrates the perspectives of neuroscience, cognitive science, and computation, with the aim of understanding how intelligent behavior is produced by the brain and how it can be replicated in machines.
+Like the summer course, *9.523* *Aspects of a Computational Theory of Intelligence* introduced students to research on intelligence that integrates the perspectives of neuroscience, cognitive science, and computation, with the aim of understanding how intelligent behavior is produced by the brain and how it can be replicated in machines.
 
 An [archive of the Fall 2015 website](http://cs.wellesley.edu/~vision/) is available, which includes course information, schedule, assignments, and readings. 
 
@@ -31,11 +31,11 @@ This course helps to prepare students for research in intelligence science, comb
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 {{< quote "[This course had] one of the best formats of class structure. The concepts were reiterated three times in a week through different modes – reading, writing response, student presentations, expert presentations. The format of structuring the class was very significant in imparting knowledge of the subjects, even to students that were not familiar with the field or had no background skills in computer science." "— 9.523 student, Fall 2015" >}}
 
-_In the following pages, Prof. Ellen Hildreth reflects on how_ 9.523 Aspects of a Computational Theory of Intelligence _was taught and how the_ Brains, Minds, and Machines (BMM) _summer course materials can be used to design other full-semester courses._
+*In the following pages, Prof. Ellen Hildreth reflects on how* 9.523 Aspects of a Computational Theory of Intelligence *was taught and how the* Brains, Minds, and Machines (BMM) *summer course materials can be used to design other full-semester courses.*
 
 - {{% resource_link 8aaec61e-e6fe-9066-e116-b7dbb69aa309 "Fostering the Development of Interdisciplinary Thinking" %}}
 - {{% resource_link c377690a-06a5-9c86-78a3-5e5ec8379fbb "Maintaining Intellectual Coherence across a Wide Range of Topics Related to Intelligence" %}}

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,6 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Unit 3 Debate: Tomer Ullman & Laura Schulz'
 uid: 176777f7-de37-91be-247f-0681fd802e77
 video_files:

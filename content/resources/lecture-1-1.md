@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,6 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1.2: Gabriel Kreiman - Computational Roles of Neural Feedback'
 uid: 9f526489-9937-6db1-7d92-362937d97e25
 video_files:

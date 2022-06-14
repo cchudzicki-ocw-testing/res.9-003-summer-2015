@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Functional architecture of the human brain. Historical evolution of theories and empirical methods revealing areas of functional specialization for mental processes. Introduction to fMRI.
 
 **Instructor:** Nancy Kanwisher
+

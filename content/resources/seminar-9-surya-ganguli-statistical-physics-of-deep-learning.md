@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Describes how the application of methods from statistical physics to the analysis of high-dimensional data can provide theoretical insights into how deep neural networks can learn to perform functions such as object categorization.
 
 **Instructor:** Surya Ganguli
+

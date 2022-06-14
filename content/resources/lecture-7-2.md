@@ -27,3 +27,4 @@ video_metadata:
 **Description:** A data-driven approach to understanding the structure of human auditory cortex, application of matrix decomposition and Independent Component Analysis to fMRI data reveals regions specialized for sound categories such as music and speech.
 
 **Instructor:** Nancy Kanwisher
+

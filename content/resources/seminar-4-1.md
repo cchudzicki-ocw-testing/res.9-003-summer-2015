@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Using computer vision to develop transportation technology. Covers the technology and function of autonomous vehicles, visual recognition and processing, collision avoidance and other obstacles to achieving fully autonomous, self driving vehicles.
 
 **Instructor:** Amnon Shashua
+

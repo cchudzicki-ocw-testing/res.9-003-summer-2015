@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding iTheory: visual cortex and
   deep networks.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/c4007fd217d2be30b1c7adca0ee0fc2e_MITRES_9_003SUM15_Lec9-1.pdf
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/c4007fd217d2be30b1c7adca0ee0fc2e_MITRES_9_003SUM15_Lec9-1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -15,3 +15,4 @@ uid: c4007fd2-17d2-be30-b1c7-adca0ee0fc2e
 video_metadata:
   youtube_id: null
 ---
+This file contains information regarding iTheory: visual cortex and deep networks.

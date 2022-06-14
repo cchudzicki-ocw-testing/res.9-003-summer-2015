@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Cognitive processing of sensory input, probing sensory representations with metameric stimuli, perceptual color matching, texture discrimination, Julesz texture model, modeling physiological mechanisms of texture processing in the ventral visual pathway.
 
 **Instructor:** Eero Simoncelli
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** The role of the hippocampus in forming episodic and spatial memory and the connection between sleep and memory. Experimental methods to probe the neural encoding of temporal sequences, simultaneous recording of neurons in multiple brain areas.
 
 **Instructor:** Matt Wilson
+

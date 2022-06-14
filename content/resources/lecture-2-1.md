@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Exploring how humans learn new concepts and make intelligent inferences from little experience. Using probabilistic generative models to reason about the physical and social world, and provide rich causal explanations of behavior.
 
 **Instructor:** Josh Tenenbaum
+

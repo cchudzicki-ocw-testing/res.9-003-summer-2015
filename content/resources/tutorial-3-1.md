@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Machine learning methods used in intelligence science & data science. Basic concepts & theory of various learning methods, and applications to different kinds of problems. Hands-on labs with MATLAB® explore practical behaviors of machine learning methods.
 
 **Instructor:** Lorenzo Rosasco
+

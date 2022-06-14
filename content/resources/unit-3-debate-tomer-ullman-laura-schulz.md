@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Speakers debate what makes a good theory of the world, the potential role of stochastic search in theory formation, goal-oriented hypothesis generation and imagination, from the perspective of computational models and experiments in child development.
 
 **Instructors:** Tomer Ullman and Laura Schulz
+

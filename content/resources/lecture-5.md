@@ -26,3 +26,4 @@ video_metadata:
 **Description:** Combining language and vision processing to solve problems in computer scene recognition and scene understanding, language understanding and knowledge representation in the START question answering system, comparison to IBM’s Watson.
 
 **Instructor:** Boris Katz
+

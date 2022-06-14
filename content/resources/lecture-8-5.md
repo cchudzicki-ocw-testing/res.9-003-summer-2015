@@ -36,3 +36,4 @@ video_metadata:
 **Description:** Research advances in the functionality of the iCub robot including tactile sensing, multisensory integration for 3D object tracking, incremental large-scale learning to support recognition, and interactive object learning with the human as teacher.
 
 **Instructors:** Carlo Ciliberto, Guilia Pasquale, Rafaello Camoriano, and Alessandro Roncone
+

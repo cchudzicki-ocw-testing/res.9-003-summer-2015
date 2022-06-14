@@ -27,3 +27,4 @@ video_metadata:
 **Description:** MIT's DARPA Robotics Challenge team approach to construction, control, movement optimization in building a humanoid robot, and how it responded to the challenges put forth in the competition.
 
 **Instructor:** Russ Tedrake
+

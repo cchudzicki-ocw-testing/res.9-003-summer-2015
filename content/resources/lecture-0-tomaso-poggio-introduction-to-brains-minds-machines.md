@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Introduction to the interdisciplinary study of intelligence, from recent advances in AI to an understanding of human intelligence and the brain.
 
 **Instructor:** Tomaso Poggio
+

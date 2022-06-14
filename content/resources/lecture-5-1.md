@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Using higher level knowledge to improve object detection, language-vision model that simultaneously processes sentences and recognizes image objects and events, performing tasks like image/video retrieval, generating descriptions, and question answering.
 
 **Instructor:** Andrei Barbu
+

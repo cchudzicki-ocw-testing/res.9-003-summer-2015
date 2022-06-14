@@ -27,3 +27,4 @@ video_metadata:
 **Description:** The study of sound textures and high level goals of auditory processing. Anatomy and structure of the auditory system, frequency tuning of cochlear transduction, perception of real-world textures using synthesized textures with similar statistics.
 
 **Instructor:** Josh McDermott
+

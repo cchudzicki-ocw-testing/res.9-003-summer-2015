@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding a mind in the fly brain.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/afaa7cccd4270598ed334e914da364ae_MITRES_9_003SUM15_sem1.pdf
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/afaa7cccd4270598ed334e914da364ae_MITRES_9_003SUM15_sem1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: afaa7ccc-d427-0598-ed33-4e914da364ae
 video_metadata:
   youtube_id: null
 ---
+This resource contains information regarding a mind in the fly brain.

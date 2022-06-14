@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Human collaboration with robots that perform actions in real-world environments, carry out complex sequences of actions and actively coordinate with people, establishing a social-feedback loop.
 
 **Instructor:** Stefanie Tellex
+

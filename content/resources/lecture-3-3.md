@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Much like scientists, children make judgements about the cost and value of information, learn from statistical evidence, use interpretations affected by belief, explore ambiguity, isolate variables, and make generalizations dependent on the evidence.
 
 **Instructor:** Laura Schulz
+

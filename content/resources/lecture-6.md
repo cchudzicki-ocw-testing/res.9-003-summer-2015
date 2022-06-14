@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Social cognition is the source of much of human intelligence and a major driver of evolution of the brain. Aspects of social intelligence such as face recognition; attention and gaze; recognizing actions, emotions, and social interactions.
 
 **Instructor:** Nancy Kanwisher
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Human ability to recognize object categories from minimal content in natural image fragments, inadequacy of current computer vision models to capture this ability, discerning the minimal features needed to make inferences for object recognition.
 
 **Instructor:** Shimon Ullman
+

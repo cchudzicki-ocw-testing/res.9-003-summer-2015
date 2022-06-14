@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Theory of Mind, thinking about others’ thoughts, using false belief tasks in moral judgments, cognitive development of belief perception and Theory of Mind, the role of the rTPJ, Multi Voxel Pattern Analysis of fMRI data with Haxby-style correlations.
 
 **Instructor:** Rebecca Saxe
+

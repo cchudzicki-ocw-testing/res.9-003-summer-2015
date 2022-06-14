@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Integrating insights from human auditory perception and speech generation into the development of speech production and recognition technology. Dealing with the effects of sound distortion from predictable and unpredictable sources of noise.
 
 **Instructor:** Hynek Hermansky
+

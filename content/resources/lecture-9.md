@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Describes the theoretical and empirical basis for i-theory, which embodies a hierarchical feedforward network model of processing in the ventral visual pathway of the primate brain, to support invariant object recognition.
 
 **Instructor:** Tomaso Poggio
+

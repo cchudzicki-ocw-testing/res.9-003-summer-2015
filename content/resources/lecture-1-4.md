@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Facial recognition in the brain. Primate vs. mammalian brain anatomy, social intelligence hypothesis, emotion and facial expression and communication. The macaque face processing network: from face detection to invariant recognition, and its connectivity.
 
 **Instructor:** Winrich Freiwald
+

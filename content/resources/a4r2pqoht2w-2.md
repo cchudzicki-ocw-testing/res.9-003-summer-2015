@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/66328dc743b652f2b47850c069a230ea_A4R2PQOHT2w.vtt
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/66328dc743b652f2b47850c069a230ea_A4R2PQOHT2w.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

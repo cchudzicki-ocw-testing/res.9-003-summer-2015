@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Discussing the open source, humanoid robot called iCub. Covers mechanics, sensors, construction, image recognition, sensory perception, body dynamics.
 
 **Instructor:** Giorgio Metta
+

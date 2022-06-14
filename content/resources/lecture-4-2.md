@@ -28,3 +28,4 @@ video_metadata:
 **Description:** What makes an image memorable? Discussing visual memory experiments, consistency of memorability across observers, memorability of images, neural framework for memorability, and biologically inspired deep neural network model of object recognition.
 
 **Instructor:** Aude Oliva
+

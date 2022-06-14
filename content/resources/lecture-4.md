@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Visual understanding evolves from simple innate biases to complex visual concepts. How computer models can learn to recognize hands and follow gaze by leveraging simple motion and pattern detection processes present in early infancy.
 
 **Instructor:** Shimon Ullman
+

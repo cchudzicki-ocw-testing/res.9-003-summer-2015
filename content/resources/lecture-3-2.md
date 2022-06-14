@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Infant development of understanding speech as communicative action with information transfer, reasoning about information access and sources, identifying intentions of communication, shared attention, and the role of speaker meaning in child development.
 
 **Instructor:** Alia Martin
+

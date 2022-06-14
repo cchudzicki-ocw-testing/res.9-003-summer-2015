@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Structure of neurons and how they communicate information, brain anatomy and dorsal/ventral visual pathways, and methods for probing the behavior of neural circuits. Processing along the ventral pathway involved in visual recognition.
 
 **Instructor:** Leyla Isik
+

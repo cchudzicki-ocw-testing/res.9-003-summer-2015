@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Aspects of human intelligence arising from complex social environments. Early theories of social cognition by Humphreys and Dennett, group social behaviors in animals, variation in human face recognition ability, rapid detection of human actions.
 
 **Instructor:** Ken Nakayama
+

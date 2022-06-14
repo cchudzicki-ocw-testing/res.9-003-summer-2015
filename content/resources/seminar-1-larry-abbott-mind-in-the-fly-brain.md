@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Modeling neural processes in the mushroom bodies of the insect brain to understand how flies learn to recognize scents. Training flies with classical conditioning with positive and negative reinforcement to study olfactory memory and behavior.
 
 **Instructor:** Larry Abbott
+

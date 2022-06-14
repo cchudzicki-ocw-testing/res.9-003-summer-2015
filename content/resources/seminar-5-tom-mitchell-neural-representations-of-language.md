@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Modelling the neural representations of language using machine learning to classify words from fMRI data, predictive models for word feature combinations, probing the timing of semantic processing with MEG, neural interpretation of adjective-noun phrases.
 
 **Instructor:** Tom Mitchell
+

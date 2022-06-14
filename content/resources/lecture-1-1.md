@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Neural computation and methods to study visual processing in the brain. Models of single neurons and neural circuits, hierarchical cortical architecture, feedforward processing, role of feedback signals in V1 cells, pattern completion, and visual search.
 
 **Instructor:** Gabriel Kreiman
+

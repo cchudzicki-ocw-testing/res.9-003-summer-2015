@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Analysis of common properties of sensory representations in deep cortex-like architectures, toward a systematic theoretical understanding of the capacity and limitations of deep learning networks.
 
 **Instructor:** Haim Sompolinsky
+

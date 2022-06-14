@@ -28,3 +28,4 @@ video_metadata:
 **Description:** The strong story hypothesis that the ability to tell, understand, and recombine stories distinguishes human and primate intelligence, historical perspective on AI and thinking machines, modelling story understanding in the Genesis system.
 
 **Instructor:** Patrick Winston
+

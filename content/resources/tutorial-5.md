@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Learn the Church programming language, which facilitates the implementation and testing of generative models of physical and social worlds that enable probabilistic inferences about objects, agents and events.
 
 **Instructor:** Tomer Ullman
+

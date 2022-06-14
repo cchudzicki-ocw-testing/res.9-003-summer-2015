@@ -3,7 +3,7 @@ content_type: resource
 description: 'Legend: What makes an image memorable? Using insights from perceptual
   experiments, fMRI studies, and computational modeling, Aude Oliva has identified
   some key factors that determine visual memorability.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/b44faeaf035bc4fc1c98f93e902f29ed_unit4.jpg
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/b44faeaf035bc4fc1c98f93e902f29ed_unit4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Legend: What makes an image memorable? Using insights from perceptual
@@ -24,3 +24,4 @@ uid: b44faeaf-035b-c4fc-1c98-f93e902f29ed
 video_metadata:
   youtube_id: null
 ---
+Legend: What makes an image memorable? Using insights from perceptual experiments, fMRI studies, and computational modeling, Aude Oliva has identified some key factors that determine visual memorability.

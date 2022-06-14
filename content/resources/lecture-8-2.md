@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Layered control architectures of the brain inform the development of layered control architectures in robotics. Covers computational models, behavior, control, behavioral decomposition, fixed action patterns, spatial attention, vibrissal control.
 
 **Instructor:** Tony Prescott
+

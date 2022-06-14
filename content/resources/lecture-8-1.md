@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Technical challenges for self driving cars, historical perspective on robot mapping and localization and object based mapping.
 
 **Instructor:** John Leonard
+

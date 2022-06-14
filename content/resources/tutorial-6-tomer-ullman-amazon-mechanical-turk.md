@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Learn how Amazon Mechnical Turk can be used in large-scale experiments, on simple tasks involving perception or decision-making, or to crowdsource data on large image/video libraries. Discuss the pros and cons of using MTurk, and tips for effective use.
 
 **Instructor:** Tomer Ullman
+

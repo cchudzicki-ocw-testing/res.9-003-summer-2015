@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Knowledge grows through hypothesis- and explanation-driven interpretations of sparse data, causal learning, forming theories, learning compositional abstractions, exploratory learning and social learning. Building "program-learning" programs.
 
 **Instructor:** Josh Tenenbaum
+

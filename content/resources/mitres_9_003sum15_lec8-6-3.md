@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding iCub: An overview.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/3a6c121cd4b481dc8f7658405c1e89c6_MITRES_9_003SUM15_Lec8-6-3.pdf
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/3a6c121cd4b481dc8f7658405c1e89c6_MITRES_9_003SUM15_Lec8-6-3.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: 3a6c121c-d4b4-81dc-8f76-58405c1e89c6
 video_metadata:
   youtube_id: null
 ---
+This resource contains information regarding iCub: An overview.

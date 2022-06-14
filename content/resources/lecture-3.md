@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Behavioral methods to study cognitive development in infants, probing infants’ evolving understanding of objects and their physical behaviors, and understanding of agents who engage in goal-directed activity and initiate social interactions.
 
 **Instructor:** Liz Spelke
+

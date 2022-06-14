@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Infants’ registration of effort-related costs in the actions of others, and its correlation with activation in sensorimotor cortex. Infants’ use of costs and benefits of actions to guide their own prosocial behavior.
 
 **Instructor:** Jessica Sommerville
+

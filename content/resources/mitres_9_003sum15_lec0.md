@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding introduction to the study of
   intelligence in brains, minds, and machines.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/dfee4de79333806afbdb8b5fd92adbe1_MITRES_9_003SUM15_lec0.pdf
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/dfee4de79333806afbdb8b5fd92adbe1_MITRES_9_003SUM15_lec0.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -15,3 +15,4 @@ uid: dfee4de7-9333-806a-fbdb-8b5fd92adbe1
 video_metadata:
   youtube_id: null
 ---
+This file contains information regarding introduction to the study of intelligence in brains, minds, and machines.

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Ellen Hildreth shares how she and her colleagues
+  help students take an interdisciplinary approach to thinking about computational
+  modeling.
 draft: false
 layout: instructor_insights
 learning_resource_types: []

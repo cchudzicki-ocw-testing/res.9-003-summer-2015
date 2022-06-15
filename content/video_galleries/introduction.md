@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents the class introduction video, slides, and further
+  study resources.
 draft: false
 is_media_gallery: true
 learning_resource_types: []

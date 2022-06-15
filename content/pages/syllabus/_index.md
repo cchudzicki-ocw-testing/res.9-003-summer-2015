@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page summarizes the course objectives, prerequisites, and structure.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus

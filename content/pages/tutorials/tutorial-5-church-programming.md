@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents a video-based tutorial on using the Church programming
+  language.
 is_media_gallery: true
 learning_resource_types:
 - Tutorials

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Ellen Hildreth shares how she and her colleagues
+  maintain intellectual coherence in a course that explores a wide range of topics
+  related to intelligence.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

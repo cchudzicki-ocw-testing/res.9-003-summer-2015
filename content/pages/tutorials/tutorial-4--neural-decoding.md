@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents a video-based tutorial on the Neural Decoding Toolbox.
 is_media_gallery: true
 learning_resource_types:
 - Tutorials

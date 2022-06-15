@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page summarizes the tutorial topics and activities, and links to
+  individual tutorial pages containing videos, notes and further study resources.
 learning_resource_types:
 - Tutorials
 ocw_type: SupplementalResourceSection

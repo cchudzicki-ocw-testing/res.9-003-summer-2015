@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Ellen Hildreth shares how materials offered through
+  this OCW course can be used to design full-semester courses with more focused content.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

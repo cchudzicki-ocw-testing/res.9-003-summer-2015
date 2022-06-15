@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents a video-based tutorial on running experiments with
+  the Amazon Mechanical Turk service.
 is_media_gallery: true
 learning_resource_types:
 - Tutorials

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists the instructors and specific topics for each class and
+  tutorial session.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Calendar

@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: 'This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources. '
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

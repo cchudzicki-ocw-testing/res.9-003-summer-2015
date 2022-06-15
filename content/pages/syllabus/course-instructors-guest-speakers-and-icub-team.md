@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists the course instructors, guest speakers, and members of
+  the iCub team.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Syllabus

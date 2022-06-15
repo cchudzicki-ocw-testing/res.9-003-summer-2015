@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Tutorials
 ocw_type: SupplementalResourceSection

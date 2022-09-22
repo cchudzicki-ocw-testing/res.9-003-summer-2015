@@ -5,6 +5,7 @@ description: This file contains information regarding introduction to the study 
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/dfee4de79333806afbdb8b5fd92adbe1_MITRES_9_003SUM15_lec0.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Introduction
 parent_type: SupplementalResourceSection

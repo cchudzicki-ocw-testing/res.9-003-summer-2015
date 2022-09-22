@@ -16,6 +16,7 @@ image_metadata:
     with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally
     "AIT."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection

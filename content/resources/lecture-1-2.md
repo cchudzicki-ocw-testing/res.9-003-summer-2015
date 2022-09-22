@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Neural mechanisms underlying visual object recognition (PDF - 17.7MB)](/ans7870/RES/RES.9-003/MITRES_9_003SUM15_Lec1-3.pdf)'
